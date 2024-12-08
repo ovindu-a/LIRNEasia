@@ -1,0 +1,4064 @@
+household_ID,pairing,average_consumption
+ID0001,Own - None,91.36
+ID0002,Own - None,47.36
+ID0003,Own - None,188.52
+ID0004,Own - None,236.24
+ID0005,Own - None,94.04
+ID0006,Own - None,151.96
+ID0007,Own - None,82.72
+ID0008,Own - None,65.16
+ID0009,Own - None,26.08
+ID0010,Own - None,70.76
+ID0011,Own - None,84.88
+ID0012,Own - None,312.08
+ID0013,Own - Renters,153.08
+ID0014,Own - None,135.2
+ID0015,Own - None,96.08
+ID0016,Own - None,92.6
+ID0017,Own - None,27.68
+ID0018,Own - None,371.76
+ID0019,Own - None,88.96
+ID0020,Own - None,64.16
+ID0021,Own - None,0.52
+ID0022,Own - None,94.36
+ID0023,Own - None,51.72
+ID0024,Own - None,240.72
+ID0025,Own - None,60.6
+ID0026,Own - None,170.28
+ID0027,Own - None,77.24
+ID0028,Rent - Not Specified,76.24
+ID0029,Own - None,98.04
+ID0030,Own - None,48.24
+ID0031,Own - None,28.52
+ID0032,Own - None,41.64
+ID0033,Own - None,77.92
+ID0034,Own - None,483.0
+ID0035,Own - None,53.8
+ID0036,Own - None,64.8
+ID0037,Own - None,44.28
+ID0038,Own - None,93.56
+ID0039,Own - None,197.32
+ID0040,Own - None,77.92
+ID0041,Own - None,89.04
+ID0042,Own - None,91.72
+ID0043,Own - None,394.5833333333333
+ID0044,Own - None,29.96
+ID0045,Own - None,99.68
+ID0046,Rent - Not Specified,129.52
+ID0047,Own - None,39.875
+ID0048,Own - None,60.88
+ID0049,Own - None,193.8
+ID0050,Own - None,155.84
+ID0051,Rent - Not Specified,48.32
+ID0052,Own - None,159.64
+ID0053,Own - None,71.24
+ID0054,Own - Renters,132.12
+ID0055,Rent Free - Not Specified,87.64
+ID0056,Own - None,120.48
+ID0057,Own - None,120.44
+ID0058,Own - None,34.16
+ID0059,Own - None,89.2
+ID0060,Own - None,93.2
+ID0061,Own - None,83.0
+ID0062,Own - None,81.28
+ID0063,Own - None,125.24
+ID0064,Own - None,95.4
+ID0065,Own - None,92.68
+ID0066,Own - None,450.92
+ID0067,Own - None,155.48
+ID0068,Own - None,170.6
+ID0069,Own - None,321.0
+ID0070,Own - None,85.0
+ID0071,Own - None,156.64
+ID0072,Own - None,204.64
+ID0073,Own - None,34.12
+ID0074,Own - None,44.96
+ID0075,Rent Free - Not Specified,92.88
+ID0076,Rent - Not Specified,75.88
+ID0077,Own - None,131.12
+ID0078,Own - None,121.96
+ID0079,Own - None,244.6
+ID0080,Own - None,0.0
+ID0081,Own - None,152.0
+ID0082,Own - None,59.52
+ID0083,Own - Renters,180.04
+ID0084,Own - None,141.76
+ID0085,Own - None,114.6
+ID0086,Own - None,92.48
+ID0087,Own - None,100.08
+ID0088,Own - None,194.64
+ID0089,Rent - Not Specified,139.72
+ID0090,Own - None,67.88
+ID0091,Rent - Not Specified,106.52
+ID0092,Own - None,110.08
+ID0093,Own - None,176.64
+ID0094,Own - None,156.36
+ID0095,Own - None,83.0
+ID0096,Rent - Not Specified,157.2
+ID0097,Own - None,132.16
+ID0098,Own - None,62.8
+ID0099,Own - None,32.0
+ID0100,Rent - Not Specified,120.92
+ID0101,Own - None,148.92
+ID0102,Own - None,163.72
+ID0103,Own - None,256.24
+ID0104,Own - None,242.36
+ID0105,Own - None,150.96
+ID0106,Own - None,141.56
+ID0107,Own - None,206.36
+ID0108,Own - None,178.76
+ID0109,Own - None,0.0
+ID0110,Own - None,123.8
+ID0111,Rent - Not Specified,169.76
+ID0112,Own - None,105.72
+ID0113,Own - None,188.68
+ID0114,Own - None,170.2
+ID0115,Own - None,240.6
+ID0116,Own - None,89.76
+ID0117,Own - None,127.12
+ID0118,Own - None,134.36
+ID0119,Own - None,46.6
+ID0120,Own - None,32.4
+ID0121,Own - None,148.2
+ID0122,Own - None,0.3333333333333333
+ID0123,Own - None,159.2
+ID0124,Own - None,84.0
+ID0125,Own - None,169.84
+ID0126,Own - None,24.64
+ID0127,Own - None,366.12
+ID0128,Own - None,174.92
+ID0129,Own - None,120.56
+ID0130,Own - None,153.68
+ID0131,Own - None,51.24
+ID0132,Own - None,28.227272727272727
+ID0133,Own - None,107.28
+ID0134,Own - Renters,201.84
+ID0135,Own - None,205.72
+ID0136,Own - None,50.24
+ID0137,Own - None,315.76
+ID0138,Own - None,42.68
+ID0139,Rent Free - Not Specified,154.84
+ID0140,Rent Free - Not Specified,10.4
+ID0141,Rent - Not Specified,93.88
+ID0142,Own - Boarders,125.08
+ID0143,Own - None,66.48
+ID0144,Own - None,48.64
+ID0145,Rent Free - Not Specified,93.92
+ID0146,Own - None,159.84
+ID0147,Own - None,10.96
+ID0148,Rent - Not Specified,110.24
+ID0149,Own - None,266.28
+ID0150,Own - None,90.24
+ID0151,Own - None,82.8
+ID0152,Own - None,223.96
+ID0153,Own - None,114.88
+ID0154,Own - None,237.54545454545453
+ID0155,Own - None,170.16
+ID0156,Own - None,111.24
+ID0157,Own - None,69.72
+ID0158,Rent - Not Specified,58.4
+ID0159,Own - None,139.24
+ID0160,Own - None,43.92
+ID0161,Own - None,23.8
+ID0162,Own - None,60.6
+ID0163,Own - None,122.96
+ID0164,Own - None,42.4
+ID0165,Own - None,126.04
+ID0166,Own - None,152.84
+ID0167,Own - None,0.0
+ID0168,Own - None,89.16
+ID0169,Own - None,102.76
+ID0170,Rent - Not Specified,27.6
+ID0171,Rent Free - Not Specified,157.56
+ID0172,Own - None,148.6
+ID0173,Own - None,56.68
+ID0174,Own - None,155.76
+ID0175,Own - None,63.96
+ID0176,Own - None,59.08
+ID0177,Own - None,358.12
+ID0178,Own - None,93.32
+ID0179,Own - None,142.6
+ID0180,Own - None,128.52
+ID0181,Own - None,146.32
+ID0182,Own - None,447.92
+ID0183,Own - Renters,28.12
+ID0184,Own - None,51.56
+ID0185,Own - None,326.44
+ID0186,Own - None,118.28
+ID0187,Own - None,148.0
+ID0188,Own - None,104.12
+ID0189,Own - None,325.6
+ID0190,Own - None,14.28
+ID0191,Own - None,85.04
+ID0192,Own - None,122.64
+ID0193,Own - None,101.72
+ID0194,Own - Renters,83.85714285714286
+ID0195,Own - None,105.84
+ID0196,Own - None,106.6
+ID0197,Own - None,138.48
+ID0198,Own - None,437.56
+ID0199,Rent - Not Specified,40.76
+ID0200,Own - None,82.84
+ID0201,Own - None,258.2
+ID0202,Own - None,158.8
+ID0203,Own - None,106.88
+ID0204,Own - None,50.52
+ID0205,Own - None,92.625
+ID0206,Own - None,133.24
+ID0207,Own - None,136.56
+ID0208,Own - None,52.96
+ID0209,Own - None,88.72
+ID0210,Own - None,263.08
+ID0211,Own - None,99.76
+ID0212,Own - None,73.96
+ID0213,Own - None,64.24
+ID0214,Own - None,70.12
+ID0215,Own - None,97.16
+ID0216,Own - None,84.04
+ID0217,Rent - Not Specified,130.48
+ID0218,Own - None,36.16
+ID0219,Own - None,126.76
+ID0220,Own - None,96.52
+ID0221,Own - None,106.2
+ID0222,Rent - Not Specified,137.68
+ID0223,Own - None,22.64
+ID0224,Own - None,25.48
+ID0225,Own - None,145.72
+ID0226,Own - None,116.6
+ID0227,Own - None,76.56
+ID0228,Own - None,91.44444444444444
+ID0229,Own - None,320.76
+ID0230,Own - None,144.8
+ID0231,Rent - Not Specified,132.28
+ID0232,Own - None,104.6
+ID0233,Own - None,176.44
+ID0234,Own - None,160.72
+ID0235,Own - None,57.44
+ID0236,Own - None,86.6
+ID0237,Own - None,165.44
+ID0238,Own - None,67.28
+ID0239,Rent - Not Specified,43.92
+ID0240,Own - None,77.92
+ID0241,Own - None,60.48
+ID0242,Own - None,54.32
+ID0243,Own - None,72.6
+ID0244,Own - None,20.72
+ID0245,Own - None,98.44
+ID0246,Own - None,456.8
+ID0247,Own - None,331.96
+ID0248,Rent - Not Specified,82.4
+ID0249,Own - None,234.4
+ID0250,Own - None,192.04
+ID0251,Rent - Not Specified,122.72
+ID0252,Rent - Not Specified,53.68
+ID0253,Own - None,50.68
+ID0254,Own - None,114.08
+ID0255,Own - None,372.92
+ID0256,Own - None,168.56
+ID0257,Rent - Not Specified,238.0
+ID0258,Own - None,162.0
+ID0259,Own - None,73.76
+ID0260,Own - None,237.56
+ID0261,Own - None,116.70833333333333
+ID0262,Own - None,42.64
+ID0263,Rent - Not Specified,152.48
+ID0264,Own - None,359.84
+ID0265,Own - None,99.76
+ID0266,Own - None,83.28
+ID0267,Own - None,97.12
+ID0268,Own - None,58.24
+ID0269,Own - None,215.44
+ID0270,Own - Renters,146.24
+ID0271,Rent - Not Specified,73.48
+ID0272,Own - None,46.04
+ID0273,Own - None,248.96
+ID0274,Own - None,190.76
+ID0275,Own - None,182.4
+ID0276,Own - None,295.2
+ID0277,Own - None,90.96
+ID0278,Own - None,201.44
+ID0279,Own - None,54.84
+ID0280,Own - None,153.0
+ID0281,Own - None,49.24
+ID0282,Own - None,134.6
+ID0283,Own - None,83.68
+ID0284,Rent - Not Specified,42.48
+ID0285,Own - None,194.0
+ID0286,Own - None,102.12
+ID0287,Own - None,166.44
+ID0288,Own - None,35.04
+ID0289,Own - None,101.8
+ID0290,Rent Free - Not Specified,69.56521739130434
+ID0291,Own - None,58.64
+ID0292,Own - None,54.36
+ID0293,Own - Renters,52.32
+ID0294,Own - None,188.04
+ID0295,Own - None,100.8
+ID0296,Own - None,338.6
+ID0297,Own - None,108.0
+ID0298,Rent - Not Specified,27.45
+ID0299,Own - None,70.16
+ID0300,Rent - Not Specified,55.92
+ID0301,Own - None,78.64
+ID0302,Own - None,87.32
+ID0303,Own - None,41.0
+ID0304,Own - None,121.56
+ID0305,Own - None,113.72
+ID0306,Own - None,112.6
+ID0307,Own - None,175.68
+ID0308,Own - None,101.92
+ID0309,Rent - Not Specified,64.64
+ID0310,Own - None,72.48
+ID0311,Own - None,103.52
+ID0312,Own - None,65.12
+ID0313,Own - None,105.72
+ID0314,Own - None,172.84
+ID0315,Own - None,81.8
+ID0316,Own - None,109.64
+ID0317,Own - None,82.76
+ID0318,Rent - Not Specified,155.2
+ID0319,Own - None,113.76
+ID0320,Own - None,48.84
+ID0321,Own - None,287.375
+ID0322,Own - None,36.04
+ID0323,Own - None,109.28
+ID0324,Own - None,34.68
+ID0325,Own - None,125.6
+ID0326,Own - None,104.96
+ID0327,Own - None,161.44
+ID0328,Own - None,13.56
+ID0329,Own - None,59.2
+ID0330,Own - None,79.52
+ID0331,Rent - Not Specified,240.08
+ID0332,Own - None,134.6
+ID0333,Own - None,46.92
+ID0334,Own - None,140.28571428571428
+ID0335,Own - None,119.2
+ID0336,Own - None,89.56
+ID0337,Own - None,135.64
+ID0338,Own - None,107.92
+ID0339,Own - None,86.12
+ID0340,Own - None,111.4
+ID0341,Own - None,85.76
+ID0342,Own - None,40.2
+ID0343,Own - None,148.0
+ID0344,Own - None,32.08
+ID0345,Own - None,251.16
+ID0346,Own - None,89.68
+ID0347,Own - None,20.36
+ID0348,Own - None,250.56
+ID0349,Own - Boarders,100.56
+ID0350,Rent - Not Specified,55.68
+ID0351,Own - None,7.88
+ID0352,Own - None,100.8
+ID0353,Own - None,85.88
+ID0354,Own - None,31.84
+ID0355,Own - None,97.64
+ID0356,Own - Renters,217.64
+ID0357,Own - None,175.48
+ID0358,Own - None,144.24
+ID0359,Own - None,310.16
+ID0360,Own - None,28.2
+ID0361,Own - None,111.88
+ID0362,Own - None,47.28
+ID0363,Own - None,35.84
+ID0364,Own - None,96.32
+ID0365,Rent Free - Not Specified,47.69565217391305
+ID0366,Rent - Not Specified,142.28
+ID0367,Rent - Not Specified,91.84
+ID0368,Own - None,70.12
+ID0369,Own - Renters,49.16
+ID0370,Own - None,310.48
+ID0371,Rent - Not Specified,542.48
+ID0372,Own - None,123.56
+ID0373,Own - None,89.44
+ID0374,Own - None,96.04
+ID0375,Own - None,132.08
+ID0376,Own - None,55.72
+ID0377,Own - None,197.32
+ID0378,Own - None,103.52
+ID0379,Own - None,117.48
+ID0380,Rent (Paid by Employer) - Not Specified,50.64
+ID0381,Rent - Not Specified,191.48
+ID0382,Rent - Not Specified,57.64
+ID0383,Own - None,148.28
+ID0384,Own - None,76.08
+ID0385,Own - None,81.0
+ID0386,Own - None,102.6
+ID0387,Own - None,70.28
+ID0388,Own - None,166.12
+ID0389,Own - None,131.36
+ID0390,Own - Boarders,52.64
+ID0391,Own - None,155.36
+ID0392,Own - None,273.24
+ID0393,Own - None,0.0
+ID0394,Own - None,58.12
+ID0395,Own - None,486.0
+ID0396,Own - None,94.84
+ID0397,Own - Renters,186.72
+ID0398,Own - None,111.6
+ID0399,Own - None,142.56
+ID0400,Rent - Not Specified,18.12
+ID0401,Own - None,89.16
+ID0402,Own - None,87.68
+ID0403,Own - None,122.52
+ID0404,Rent - Not Specified,183.88
+ID0405,Own - None,70.44
+ID0406,Own - None,354.72
+ID0407,Own - None,101.84
+ID0408,Rent - Not Specified,63.48
+ID0409,Own - None,91.44
+ID0410,Own - None,8.36
+ID0411,Own - None,80.44
+ID0412,Own - None,2.68
+ID0413,Own - None,40.48
+ID0414,Own - None,118.6
+ID0415,Own - None,131.64
+ID0416,Own - None,714.5217391304348
+ID0417,Own - None,604.4
+ID0418,Own - None,162.76
+ID0419,Own - None,86.0
+ID0420,Rent - Not Specified,89.24
+ID0421,Own - Boarders,119.32
+ID0422,Rent - Not Specified,83.92
+ID0423,Own - None,20.04
+ID0424,Own - None,104.24
+ID0425,Own - None,58.28
+ID0426,Rent - Not Specified,49.0
+ID0427,Own - None,130.88
+ID0428,Own - None,90.48
+ID0429,Own - None,136.52
+ID0430,Own - None,32.6
+ID0431,Own - None,68.8
+ID0432,Own - None,75.44
+ID0433,Own - None,85.24
+ID0434,Own - None,21.04
+ID0435,Own - None,74.04166666666667
+ID0436,Own - None,45.64
+ID0437,Own - None,50.76
+ID0438,Own - None,67.4
+ID0439,Own - None,85.72
+ID0440,Own - None,145.24
+ID0441,Own - None,59.64
+ID0442,Own - None,42.92
+ID0443,Own - None,97.4
+ID0444,Own - None,150.4
+ID0445,Own - None,66.36
+ID0446,Own - None,250.4
+ID0447,Own - None,58.76
+ID0448,Rent - Not Specified,105.48
+ID0449,Own - None,44.28
+ID0450,Rent - Not Specified,87.96
+ID0451,Own - None,39.84
+ID0452,Own - None,108.68
+ID0453,Own - None,173.4
+ID0454,Own - None,119.16
+ID0455,Own - None,83.0
+ID0456,Own - None,69.92
+ID0457,Own - None,179.25
+ID0458,Own - None,117.56
+ID0459,Own - None,90.36
+ID0460,Own - None,0.84
+ID0461,Own - Renters,97.0
+ID0462,Own - None,34.88
+ID0463,Own - None,42.32
+ID0464,Own - None,149.48
+ID0465,Rent - Not Specified,73.2
+ID0466,Own - None,152.08
+ID0467,Own - None,547.04
+ID0468,Own - None,166.4
+ID0469,Own - None,130.24
+ID0470,Own - None,276.68
+ID0471,Own - None,199.72
+ID0472,Own - None,86.44
+ID0473,Own - None,65.32
+ID0474,Own - None,134.44
+ID0475,Own - None,183.4
+ID0476,Own - Boarders,60.12
+ID0477,Rent - Not Specified,35.56
+ID0478,Own - None,112.92
+ID0479,Rent - Not Specified,52.04
+ID0480,Own - None,83.56
+ID0481,Rent - Not Specified,39.24
+ID0482,Rent - Not Specified,28.76
+ID0483,Own - Renters,82.4
+ID0484,Own - None,25.64
+ID0485,Own - None,23.68
+ID0486,Own - None,116.2
+ID0487,Own - None,227.4
+ID0488,Rent - Not Specified,140.92
+ID0489,Own - None,54.2
+ID0490,Own - None,111.32
+ID0491,Own - None,93.72
+ID0492,Own - None,75.88
+ID0493,Own - None,58.88
+ID0494,Own - None,85.12
+ID0495,Rent - Not Specified,101.6
+ID0496,Own - None,26.96
+ID0497,Own - None,80.44
+ID0498,Own - None,111.72
+ID0499,Own - None,246.32
+ID0500,Own - None,81.72
+ID0501,Own - None,213.2
+ID0502,Own - None,96.84
+ID0503,Own - None,75.56
+ID0504,Own - None,81.2
+ID0505,Own - None,116.6
+ID0506,Own - None,79.72
+ID0507,Own - None,61.68
+ID0508,Own - None,217.2
+ID0509,Own - None,199.12
+ID0510,Own - None,91.96
+ID0511,Own - None,157.36
+ID0512,Own - None,154.88
+ID0513,Own - None,34.6
+ID0514,Own - None,109.84
+ID0515,Own - None,84.84
+ID0516,Own - None,144.56
+ID0517,Own - None,295.68
+ID0518,Own - None,64.96
+ID0519,Own - None,11.52
+ID0520,Own - None,86.84
+ID0521,Rent - Not Specified,34.72
+ID0522,Rent - Not Specified,224.64
+ID0523,Own - Renters,70.56
+ID0524,Rent - Not Specified,225.28
+ID0525,Own - None,118.4
+ID0526,Own - None,86.52
+ID0527,Own - None,86.28
+ID0528,Own - None,116.28
+ID0529,Own - None,56.96
+ID0530,Own - Renters,146.8
+ID0531,Own - None,164.92
+ID0532,Own - None,76.16
+ID0533,Own - None,233.44
+ID0534,Rent - Not Specified,66.64
+ID0535,Own - None,71.24
+ID0536,Rent - Not Specified,63.2
+ID0537,Own - None,71.96
+ID0538,Own - None,105.72
+ID0539,Own - None,436.36
+ID0540,Own - Boarders,98.0
+ID0541,Own - None,159.52
+ID0542,Own - None,98.0
+ID0543,Own - None,323.28
+ID0544,Own - None,209.4
+ID0545,Own - None,432.72
+ID0546,Own - None,230.04
+ID0547,Own - None,201.04
+ID0548,Rent - Not Specified,42.36
+ID0549,Own - None,609.1739130434783
+ID0550,Own - None,148.36
+ID0551,Own - None,167.24
+ID0552,Rent - Not Specified,39.36
+ID0553,Rent - Not Specified,56.76
+ID0554,Own - None,214.36
+ID0555,Own - None,361.2
+ID0556,Rent - Not Specified,73.48
+ID0557,Own - None,107.04166666666667
+ID0558,Own - None,293.8
+ID0559,Own - None,94.28
+ID0560,Own - None,86.2
+ID0561,Own - None,75.08
+ID0562,Own - None,28.72
+ID0563,Own - None,78.44
+ID0564,Own - None,143.92
+ID0565,Own - None,176.6
+ID0566,Own - None,214.44
+ID0567,Own - None,78.52
+ID0568,Own - None,185.04
+ID0569,Own - None,132.48
+ID0570,Own - None,99.32
+ID0571,Own - None,316.76
+ID0572,Own - None,99.52
+ID0573,Own - None,70.88
+ID0574,Rent - Not Specified,82.24
+ID0575,Own - None,92.44
+ID0576,Own - None,131.36
+ID0577,Rent - Not Specified,90.8
+ID0578,Rent - Not Specified,90.4
+ID0579,Own - None,119.96
+ID0580,Own - None,129.08
+ID0581,Own - None,120.24
+ID0582,Own - None,47.36363636363637
+ID0583,Own - None,26.84
+ID0584,Own - None,101.4
+ID0585,Own - None,78.64
+ID0586,Rent - Not Specified,157.6
+ID0587,Own - None,111.08
+ID0588,Own - None,101.52
+ID0589,Rent - Not Specified,130.04
+ID0590,Own - None,118.8
+ID0591,Own - None,78.4
+ID0592,Own - None,127.64
+ID0593,Own - None,58.72
+ID0594,Own - None,56.2
+ID0595,Own - None,132.6
+ID0596,Own - None,186.16
+ID0597,Own - None,194.96
+ID0598,Own - None,48.92
+ID0599,Own - None,96.12
+ID0600,Own - None,348.9583333333333
+ID0601,Rent - Not Specified,185.4
+ID0602,Own - None,258.72
+ID0603,Own - None,35.9
+ID0604,Own - None,93.36
+ID0605,Own - None,139.92
+ID0606,Own - None,51.52
+ID0607,Own - None,63.4
+ID0608,Own - None,87.68
+ID0609,Own - None,230.16
+ID0610,Rent Free - Not Specified,110.16
+ID0611,Own - None,152.12
+ID0612,Own - None,181.36
+ID0613,Own - None,46.32
+ID0614,Own - None,116.64
+ID0615,Own - None,74.88
+ID0616,Own - None,31.36
+ID0617,Own - Renters,124.2
+ID0618,Own - None,103.4
+ID0619,Own - None,85.52
+ID0620,Own - None,93.8
+ID0621,Own - None,142.16
+ID0622,Own - None,158.95652173913044
+ID0623,Own - None,87.2
+ID0624,Own - None,108.44
+ID0625,Own - None,87.28
+ID0626,Rent - Not Specified,40.6
+ID0627,Own - None,89.76
+ID0628,Own - None,84.36
+ID0629,Own - None,99.72
+ID0630,Own - None,327.92
+ID0631,Own - None,272.08
+ID0632,Own - None,31.64
+ID0633,Own - None,110.6
+ID0634,Own - None,132.28571428571428
+ID0635,Rent - Not Specified,47.48
+ID0636,Own - None,102.24
+ID0637,Own - None,95.2
+ID0638,Own - None,64.44
+ID0639,Own - None,50.6
+ID0640,Own - None,89.0
+ID0641,Own - None,161.52
+ID0642,Own - None,47.28
+ID0643,Own - None,95.6
+ID0644,Own - None,114.16
+ID0645,Rent - Not Specified,78.6
+ID0646,Own - None,0.44
+ID0647,Own - None,37.48
+ID0648,Own - None,129.96
+ID0649,Rent - Not Specified,102.72
+ID0650,Rent Free - Not Specified,33.08
+ID0651,Own - None,63.041666666666664
+ID0652,Own - None,133.88
+ID0653,Own - None,137.28
+ID0654,Rent - Not Specified,195.8
+ID0655,Own - None,120.92
+ID0656,Rent - Not Specified,99.64
+ID0657,Own - None,157.6
+ID0658,Own - None,81.8
+ID0659,Own - None,110.64
+ID0660,Own - None,81.12
+ID0661,Own - None,430.0416666666667
+ID0662,Own - None,119.48
+ID0663,Rent - Not Specified,71.92
+ID0664,Own - None,148.48
+ID0665,Own - None,29.84
+ID0666,Rent - Not Specified,185.20833333333334
+ID0667,Own - None,120.76
+ID0668,Rent - Not Specified,41.4
+ID0669,Rent - Not Specified,426.36
+ID0670,Own - None,59.08
+ID0671,Own - None,254.72
+ID0672,Own - None,54.12
+ID0673,Rent - Not Specified,30.0
+ID0674,Own - None,66.8
+ID0675,Own - None,150.16
+ID0676,Own - None,201.6
+ID0677,Own - None,0.04
+ID0678,Own - None,88.08
+ID0679,Own - None,117.2
+ID0680,Rent - Not Specified,198.6
+ID0681,Own - None,74.24
+ID0682,Rent - Not Specified,86.12
+ID0683,Rent Free - Not Specified,69.0
+ID0684,Own - None,185.32
+ID0685,Own - None,39.92
+ID0686,Own - None,379.32
+ID0687,Own - None,56.04
+ID0688,Own - None,18.68
+ID0689,Own - None,74.56
+ID0690,Own - None,76.84
+ID0691,Own - None,151.0
+ID0692,Own - None,138.68
+ID0693,Rent - Not Specified,106.52
+ID0694,Rent - Not Specified,324.6
+ID0695,Own - None,87.63636363636364
+ID0696,Own - None,159.36
+ID0697,Own - None,13.24
+ID0698,Own - None,54.4
+ID0699,Own - None,85.08
+ID0700,Own - None,235.92
+ID0701,Own - None,182.3913043478261
+ID0702,Own - None,29.32
+ID0703,Own - None,91.32
+ID0704,Own - None,180.08
+ID0705,Rent - Not Specified,59.68
+ID0706,Own - None,128.68
+ID0707,Rent Free - Not Specified,57.96
+ID0708,Own - None,67.12
+ID0709,Own - None,145.72
+ID0710,Own - None,145.0
+ID0711,Own - None,86.08
+ID0712,Own - None,0.0
+ID0713,Own - None,213.44
+ID0714,Rent - Not Specified,107.12
+ID0715,Own - None,151.04
+ID0716,Own - None,87.56
+ID0717,Own - None,100.56
+ID0718,Own - None,111.84
+ID0719,Own - None,298.28
+ID0720,Own - None,61.84
+ID0721,Own - None,303.68
+ID0722,Own - Boarders,51.56
+ID0723,Own - None,100.56
+ID0724,Own - None,39.44
+ID0725,Own - None,108.36
+ID0726,Own - None,93.76
+ID0727,Rent - Not Specified,56.52
+ID0728,Own - None,167.8
+ID0729,Own - None,33.16
+ID0730,Own - None,7.76
+ID0731,Own - None,196.16
+ID0732,Own - None,67.0
+ID0733,Own - None,247.56
+ID0734,Own - None,83.4
+ID0735,Own - None,28.24
+ID0736,Own - None,114.95833333333333
+ID0737,Own - None,77.68
+ID0738,Rent Free - Not Specified,160.32
+ID0739,Own - None,143.64
+ID0740,Own - None,11.92
+ID0741,Own - None,588.0
+ID0742,Own - None,62.92
+ID0743,Rent - Not Specified,29.2
+ID0744,Own - None,132.24
+ID0745,Own - None,91.08
+ID0746,Own - None,42.48
+ID0747,Own - None,159.04
+ID0748,Own - None,136.72
+ID0749,Own - None,88.92
+ID0750,Own - None,115.16
+ID0751,Own - None,295.88
+ID0752,Own - None,115.68
+ID0753,Own - None,216.52
+ID0754,Own - None,99.96
+ID0755,Rent - Not Specified,96.48
+ID0756,Own - None,120.72
+ID0757,Own - None,79.72
+ID0758,Own - None,80.84
+ID0759,Own - None,65.16
+ID0760,Own - None,20.4
+ID0761,Rent - Not Specified,219.76
+ID0762,Own - None,138.56
+ID0763,Own - None,85.04
+ID0764,Own - None,121.8
+ID0765,Own - None,172.32
+ID0766,Own - None,104.72
+ID0767,Rent - Not Specified,61.84
+ID0768,Own - None,112.72
+ID0769,Own - None,288.08
+ID0770,Own - None,92.2
+ID0771,Own - None,141.88
+ID0772,Own - None,371.68
+ID0773,Rent - Not Specified,166.2
+ID0774,Own - None,213.04
+ID0775,Own - None,297.04
+ID0776,Own - None,23.72
+ID0777,Own - None,194.96
+ID0778,Own - None,44.04
+ID0779,Own - None,100.4
+ID0780,Own - None,132.56
+ID0781,Own - None,432.2
+ID0782,Own - None,103.36
+ID0783,Own - None,0.24
+ID0784,Own - None,1.72
+ID0785,Own - None,67.08
+ID0786,Own - None,60.24
+ID0787,Own - None,61.88
+ID0788,Own - None,40.6
+ID0789,Own - None,136.4
+ID0790,Own - None,5.84
+ID0791,Own - None,95.36
+ID0792,Own - None,179.08
+ID0793,Own - None,233.48
+ID0794,Own - None,45.72
+ID0795,Own - None,61.0
+ID0796,Own - None,405.36
+ID0797,Own - None,92.52
+ID0798,Own - None,293.96
+ID0799,Own - None,95.16
+ID0800,Own - None,214.8
+ID0801,Own - None,18.12
+ID0802,Own - None,135.2
+ID0803,Own - None,120.52
+ID0804,Own - None,12.0
+ID0805,Own - None,37.08
+ID0806,Rent Free - Not Specified,255.92
+ID0807,Own - None,79.76
+ID0808,Own - None,119.88
+ID0809,Rent - Not Specified,86.92
+ID0810,Own - None,75.04
+ID0811,Own - None,129.72
+ID0812,Rent - Not Specified,47.96
+ID0813,Own - None,154.92
+ID0814,Own - None,143.64
+ID0815,Own - None,102.64
+ID0816,Own - None,75.96
+ID0817,Own - None,86.12
+ID0818,Own - None,26.64
+ID0819,Own - None,136.24
+ID0820,Own - None,96.52
+ID0821,Own - None,60.92
+ID0822,Own - None,225.96
+ID0823,Own - None,119.12
+ID0824,Own - None,58.52
+ID0825,Own - None,90.04
+ID0826,Own - None,113.76
+ID0827,Own - None,81.96
+ID0828,Own - None,162.92
+ID0829,Rent - Not Specified,56.12
+ID0830,Own - None,211.2
+ID0831,Own - None,39.88
+ID0832,Own - None,149.88
+ID0833,Own - None,378.08
+ID0834,Own - None,114.32
+ID0835,Own - None,46.12
+ID0836,Own - None,85.24
+ID0837,Own - None,68.48
+ID0838,Own - None,34.28
+ID0839,Own - None,75.44
+ID0840,Own - None,235.4
+ID0841,Own - None,493.9166666666667
+ID0842,Rent - Not Specified,36.0
+ID0843,Own - None,306.28
+ID0844,Own - None,249.96
+ID0845,Own - None,108.4
+ID0846,Own - None,136.84
+ID0847,Rent - Not Specified,100.4
+ID0848,Own - None,83.84
+ID0849,Own - None,162.96
+ID0850,Own - None,146.36
+ID0851,Own - None,69.92
+ID0852,Own - None,115.76
+ID0853,Own - None,142.44
+ID0854,Own - None,32.16
+ID0855,Own - None,83.28
+ID0856,Own - None,0.12
+ID0857,Own - None,169.56
+ID0858,Own - None,79.16
+ID0859,Own - None,127.88
+ID0860,Own - None,88.88
+ID0861,Own - None,86.88
+ID0862,Own - None,103.76
+ID0863,Own - None,88.48
+ID0864,Own - None,155.76
+ID0865,Own - None,184.48
+ID0866,Own - None,26.64
+ID0867,Own - None,126.8
+ID0868,Own - None,198.32
+ID0869,Own - None,45.96
+ID0870,Own - None,127.08333333333333
+ID0871,Own - None,39.08
+ID0872,Own - Renters,92.28
+ID0873,Own - None,102.47826086956522
+ID0874,Own - None,0.04
+ID0875,Own - None,49.52
+ID0876,Own - None,58.44
+ID0877,Own - None,231.48
+ID0878,Own - None,80.8
+ID0879,Own - None,61.04
+ID0880,Own - None,54.0
+ID0881,Own - None,99.24
+ID0882,Own - None,195.88
+ID0883,Own - None,93.84
+ID0884,Own - None,89.16
+ID0885,Own - None,72.28
+ID0886,Own - None,186.44
+ID0887,Own - None,176.88
+ID0888,Own - None,127.6
+ID0889,Rent - Not Specified,61.84
+ID0890,Own - None,52.48
+ID0891,Own - None,2.28
+ID0892,Own - None,142.08
+ID0893,Own - None,163.52
+ID0894,Own - None,84.44
+ID0895,Own - None,147.2
+ID0896,Own - None,40.08
+ID0897,Own - None,759.04
+ID0898,Own - None,53.76
+ID0899,Own - None,333.76
+ID0900,Own - None,80.8
+ID0901,Own - None,270.16
+ID0902,Own - None,159.0
+ID0903,Own - None,0.96
+ID0904,Own - None,86.0
+ID0905,Own - None,95.6
+ID0906,Own - None,134.44
+ID0907,Rent - Not Specified,285.84
+ID0908,Own - None,163.88
+ID0909,Rent - Not Specified,84.92
+ID0910,Own - None,39.16
+ID0911,Own - None,95.12
+ID0912,Own - None,201.56
+ID0913,Own - None,105.12
+ID0914,Own - None,43.76
+ID0915,Own - None,51.24
+ID0916,Own - None,214.92
+ID0917,Rent - Not Specified,234.36
+ID0918,Own - None,32.76
+ID0919,Own - None,124.72
+ID0920,Own - None,50.5
+ID0921,Own - None,56.0
+ID0922,Rent - Not Specified,118.72
+ID0923,Own - None,153.68
+ID0924,Own - None,78.76
+ID0925,Own - None,105.84
+ID0926,Own - None,1.4782608695652173
+ID0927,Rent - Not Specified,111.28
+ID0928,Own - None,129.96
+ID0929,Own - None,159.4
+ID0930,Rent - Not Specified,107.76
+ID0931,Own - None,128.4
+ID0932,Own - None,79.28
+ID0933,Own - None,81.24
+ID0934,Own - None,154.04
+ID0935,Own - None,121.04
+ID0936,Own - None,121.68
+ID0937,Own - None,141.48
+ID0938,Own - None,147.88
+ID0939,Own - None,313.04
+ID0940,Own - None,166.64
+ID0941,Own - None,74.16
+ID0942,Own - None,104.52
+ID0943,Own - None,116.0
+ID0944,Rent - Not Specified,259.76
+ID0945,Own - None,81.2
+ID0946,Own - None,38.44
+ID0947,Own - None,24.2
+ID0948,Own - None,115.48
+ID0949,Own - None,71.04
+ID0950,Own - None,84.84
+ID0951,Own - None,216.92
+ID0952,Own - None,117.48
+ID0953,Own - None,118.12
+ID0954,Own - Renters,131.72727272727272
+ID0955,Own - None,120.36
+ID0956,Own - None,129.68
+ID0957,Own - None,169.64
+ID0958,Own - None,127.96
+ID0959,Own - Boarders,134.72
+ID0960,Own - Renters,51.84
+ID0961,Own - None,155.24
+ID0962,Own - None,92.52
+ID0963,Own - None,76.88
+ID0964,Own - None,116.44
+ID0965,Own - None,325.84
+ID0966,Own - None,136.68
+ID0967,Rent Free - Not Specified,75.04
+ID0968,Own - None,105.16
+ID0969,Own - None,133.84
+ID0970,Own - None,59.08
+ID0971,Own - None,92.68
+ID0972,Rent - Not Specified,93.76
+ID0973,Own - None,160.4
+ID0974,Own - None,81.12
+ID0975,Own - None,1227.72
+ID0976,Own - None,224.0
+ID0977,Rent - Not Specified,134.88
+ID0978,Rent - Not Specified,79.76
+ID0979,Own - None,103.52
+ID0980,Own - None,281.88
+ID0981,Own - None,132.96
+ID0982,Own - None,554.48
+ID0983,Own - None,342.68
+ID0984,Own - None,105.52
+ID0985,Own - None,186.12
+ID0986,Own - None,249.08
+ID0987,Own - None,325.0
+ID0988,Rent - Not Specified,84.48
+ID0989,Own - None,44.04
+ID0990,Own - None,77.52
+ID0991,Rent - Not Specified,62.92
+ID0992,Own - None,50.92
+ID0993,Own - None,93.56
+ID0994,Own - None,147.48
+ID0995,Rent - Not Specified,54.44
+ID0996,Own - None,40.28
+ID0997,Own - None,73.88
+ID0998,Own - None,60.04
+ID0999,Own - None,79.28
+ID1000,Own - None,58.72
+ID1001,Own - None,86.875
+ID1002,Own - None,80.0
+ID1003,Own - None,139.0
+ID1004,Own - None,22.64
+ID1005,Own - None,81.72
+ID1006,Own - None,101.08
+ID1007,Own - None,113.28
+ID1008,Rent - Not Specified,102.84
+ID1009,Own - None,206.28
+ID1010,Own - None,83.08
+ID1011,Own - None,95.4
+ID1012,Own - None,53.72
+ID1013,Own - None,140.88
+ID1014,Own - None,25.64
+ID1015,Own - Renters,75.92
+ID1016,Own - None,110.12
+ID1017,Own - None,126.2
+ID1018,Own - None,66.4
+ID1019,Own - None,84.84
+ID1020,Own - None,55.8
+ID1021,Own - None,42.64
+ID1022,Rent - Not Specified,67.68
+ID1023,Own - None,86.36
+ID1024,Rent - Not Specified,121.52
+ID1025,Own - None,147.92
+ID1026,Own - None,61.44
+ID1027,Own - None,111.12
+ID1028,Own - None,204.68
+ID1029,Rent - Not Specified,85.92
+ID1030,Own - None,146.64
+ID1031,Own - None,125.68
+ID1032,Own - None,78.36
+ID1033,Own - None,58.08
+ID1034,Own - None,100.12
+ID1035,Own - None,38.16
+ID1036,Own - None,97.6
+ID1037,Own - None,85.28
+ID1038,Rent - Not Specified,96.72
+ID1039,Own - None,169.64
+ID1040,Own - None,155.88
+ID1041,Rent - Not Specified,76.0
+ID1042,Own - None,122.33333333333333
+ID1043,Own - None,176.68
+ID1044,Own - None,102.48
+ID1045,Own - None,9.24
+ID1046,Own - None,200.92
+ID1047,Own - None,75.0
+ID1048,Own - None,57.04
+ID1049,Own - None,89.6
+ID1050,Rent - Not Specified,100.16
+ID1051,Own - None,360.52
+ID1052,Own - None,90.8
+ID1053,Own - None,152.36
+ID1054,Own - None,278.6666666666667
+ID1055,Own - None,86.28
+ID1056,Own - None,94.70833333333333
+ID1057,Rent - Not Specified,159.88
+ID1058,Own - None,105.68
+ID1059,Own - None,101.48
+ID1060,Rent - Not Specified,35.36
+ID1061,Own - None,53.76
+ID1062,Own - None,100.92
+ID1063,Own - None,34.36
+ID1064,Own - None,55.19047619047619
+ID1065,Own - None,146.44
+ID1066,Own - None,122.16
+ID1067,Own - None,129.4
+ID1068,Own - None,77.52
+ID1069,Own - None,66.12
+ID1070,Own - None,96.88
+ID1071,Own - None,206.48
+ID1072,Rent - Not Specified,89.04
+ID1073,Own - None,91.92
+ID1074,Own - None,166.65217391304347
+ID1075,Own - None,47.68
+ID1076,Own - None,68.24
+ID1077,Rent - Not Specified,87.84
+ID1078,Own - None,174.92
+ID1079,Own - None,362.28
+ID1080,Own - None,110.52
+ID1081,Own - None,101.64
+ID1082,Own - None,39.95652173913044
+ID1083,Own - None,116.84
+ID1084,Rent Free - Not Specified,263.28
+ID1085,Own - None,58.64
+ID1086,Own - None,164.52631578947367
+ID1087,Own - Boarders,101.88
+ID1088,Own - None,80.95833333333333
+ID1089,Own - None,208.76
+ID1090,Own - None,66.56
+ID1091,Own - None,122.0
+ID1092,Own - None,98.16
+ID1093,Rent - Not Specified,75.2
+ID1094,Own - None,383.72
+ID1095,Own - None,56.8
+ID1096,Own - None,125.6
+ID1097,Own - None,206.65217391304347
+ID1098,Own - None,84.25
+ID1099,Own - None,22.08
+ID1100,Own - None,128.4
+ID1101,Own - None,251.48
+ID1102,Own - None,143.2
+ID1103,Own - None,125.96
+ID1104,Own - None,58.68
+ID1105,Own - None,79.4
+ID1106,Own - None,94.8
+ID1107,Own - Boarders,79.92
+ID1108,Own - None,249.64
+ID1109,Own - None,27.36
+ID1110,Own - None,178.64
+ID1111,Own - None,231.12
+ID1112,Own - None,43.16
+ID1113,Own - None,59.88
+ID1114,Own - None,235.88
+ID1115,Rent - Not Specified,139.52
+ID1116,Own - None,53.0
+ID1117,Own - None,109.77272727272727
+ID1118,Own - None,59.28
+ID1119,Own - None,63.96
+ID1120,Own - None,33.12
+ID1121,Own - None,188.8
+ID1122,Rent - Not Specified,113.76
+ID1123,Own - None,93.76
+ID1124,Rent - Not Specified,121.84
+ID1125,Own - None,65.04
+ID1126,Own - None,254.92
+ID1127,Own - None,258.5416666666667
+ID1128,Own - None,169.72
+ID1129,Own - None,41.32
+ID1130,Own - Boarders,84.96
+ID1131,Own - None,129.0
+ID1132,Own - None,901.68
+ID1133,Own - None,73.4
+ID1134,Rent - Not Specified,135.28
+ID1135,Own - None,62.48
+ID1136,Own - None,85.0
+ID1137,Own - None,51.666666666666664
+ID1138,Own - None,102.68
+ID1139,Own - None,132.58333333333334
+ID1140,Own - None,85.32
+ID1141,Own - None,142.08
+ID1142,Own - None,449.5833333333333
+ID1143,Own - None,104.24
+ID1144,Own - None,140.52
+ID1145,Own - None,104.76
+ID1146,Own - None,80.92
+ID1147,Rent - Not Specified,122.76
+ID1148,Own - Renters,460.4
+ID1149,Own - Renters,100.28
+ID1150,Own - None,122.0
+ID1151,Own - None,120.96
+ID1152,Own - None,51.36
+ID1153,Own - None,79.28
+ID1154,Own - None,32.68
+ID1155,Own - None,54.72
+ID1156,Own - None,156.88
+ID1157,Rent - Not Specified,63.16
+ID1158,Own - Boarders,77.2
+ID1159,Own - None,388.92
+ID1160,Own - None,68.84
+ID1161,Rent Free - Not Specified,95.72
+ID1162,Rent - Not Specified,14.608695652173912
+ID1163,Own - None,376.56
+ID1164,Own - None,154.44
+ID1165,Own - None,1015.56
+ID1166,Own - None,84.04
+ID1167,Own - None,113.2
+ID1168,Own - None,102.16
+ID1169,Own - None,52.68
+ID1170,Own - None,26.12
+ID1171,Own - None,110.28
+ID1172,Own - None,33.24
+ID1173,Own - None,24.16
+ID1174,Own - None,48.68
+ID1175,Own - None,226.76
+ID1176,Own - None,274.72
+ID1177,Own - None,243.84
+ID1178,Own - None,31.16
+ID1179,Rent - Not Specified,30.52
+ID1180,Own - None,147.92
+ID1181,Rent Free - Not Specified,68.36
+ID1182,Own - None,70.2
+ID1183,Own - None,237.52
+ID1184,Own - None,492.64
+ID1185,Own - None,39.6
+ID1186,Own - Boarders,47.16
+ID1187,Own - None,67.68
+ID1188,Rent - Not Specified,250.44
+ID1189,Own - None,214.92
+ID1190,Rent - Not Specified,31.76
+ID1191,Own - None,215.52
+ID1192,Own - None,106.16
+ID1193,Rent - Not Specified,185.76
+ID1194,Own - None,78.12
+ID1195,Own - None,31.904761904761905
+ID1196,Own - None,217.6
+ID1197,Own - None,189.84
+ID1198,Own - None,50.88
+ID1199,Own - None,136.08
+ID1200,Rent - Not Specified,92.52
+ID1201,Own - None,112.48
+ID1202,Own - None,100.76
+ID1203,Own - None,184.4
+ID1204,Own - None,69.52
+ID1205,Own - None,172.88
+ID1206,Own - None,68.0
+ID1207,Own - None,64.64
+ID1208,Own - None,297.04
+ID1209,Own - None,91.36
+ID1210,Own - None,55.44
+ID1211,Own - None,150.32
+ID1212,Own - None,93.64
+ID1213,Own - None,67.64
+ID1214,Own - None,422.32
+ID1215,Own - None,90.88
+ID1216,Own - None,96.29166666666667
+ID1217,Own - None,106.96
+ID1218,Own - None,67.84
+ID1219,Rent - Not Specified,78.24
+ID1220,Own - None,89.04
+ID1221,Own - None,72.66666666666667
+ID1222,Rent - Not Specified,64.24
+ID1223,Own - None,75.88
+ID1224,Own - None,158.04
+ID1225,Rent - Not Specified,130.92
+ID1226,Own - Renters,12.24
+ID1227,Own - None,249.72
+ID1228,Rent - Not Specified,177.84
+ID1229,Own - None,200.88
+ID1230,Own - None,136.08
+ID1231,Own - None,134.92
+ID1232,Rent - Not Specified,108.56
+ID1233,Rent - Not Specified,102.08
+ID1234,Rent Free - Not Specified,94.76
+ID1235,Rent - Not Specified,90.84
+ID1236,Own - None,199.12
+ID1237,Rent - Not Specified,134.48
+ID1238,Own - None,112.28
+ID1239,Own - None,47.64
+ID1240,Rent Free - Not Specified,147.28
+ID1241,Own - None,56.92
+ID1242,Own - None,7.08
+ID1243,Own - None,64.0
+ID1244,Own - None,229.72
+ID1245,Own - None,86.28
+ID1246,Own - None,136.76
+ID1247,Own - None,150.95833333333334
+ID1248,Rent - Not Specified,68.6
+ID1249,Own - None,142.2
+ID1250,Own - None,81.12
+ID1251,Rent - Not Specified,253.36
+ID1252,Own - None,75.68
+ID1253,Rent - Not Specified,125.84
+ID1254,Own - None,158.2
+ID1255,Own - None,134.04166666666666
+ID1256,Own - None,151.6
+ID1257,Own - None,131.4
+ID1258,Own - None,115.92
+ID1259,Own - None,37.48
+ID1260,Own - Boarders,0.32
+ID1261,Rent - Not Specified,71.2
+ID1262,Own - None,429.48
+ID1263,Own - None,117.56
+ID1264,Own - None,64.28
+ID1265,Rent - Not Specified,101.8
+ID1266,Own - None,51.84
+ID1267,Rent - Not Specified,134.8
+ID1268,Own - None,59.32
+ID1269,Own - None,1.64
+ID1270,Own - None,86.28
+ID1271,Own - None,197.04
+ID1272,Rent - Not Specified,578.68
+ID1273,Own - None,346.4
+ID1274,Own - None,156.32
+ID1275,Own - None,124.2
+ID1276,Own - None,87.16
+ID1277,Own - None,189.48
+ID1278,Own - None,78.36
+ID1279,Rent - Not Specified,116.12
+ID1280,Own - None,45.52
+ID1281,Rent - Not Specified,61.28
+ID1282,Own - None,301.76
+ID1283,Own - None,113.32
+ID1284,Own - None,763.36
+ID1285,Own - None,7.0
+ID1286,Own - None,63.12
+ID1287,Own - None,326.0
+ID1288,Own - None,163.24
+ID1289,Own - None,9.84
+ID1290,Own - None,238.4
+ID1291,Own - None,85.52
+ID1292,Own - None,219.76
+ID1293,Rent - Not Specified,16.16
+ID1294,Own - None,17.2
+ID1295,Own - None,86.08
+ID1296,Own - None,93.64
+ID1297,Own - None,69.4
+ID1298,Own - None,120.28
+ID1299,Own - None,117.12
+ID1300,Own - None,102.56
+ID1301,Own - None,124.72
+ID1302,Own - None,105.68
+ID1303,Own - None,29.96
+ID1304,Own - None,148.4
+ID1305,Own - None,134.8
+ID1306,Own - None,44.52
+ID1307,Rent - Not Specified,162.88
+ID1308,Own - None,46.64
+ID1309,Own - None,26.44
+ID1310,Own - None,85.88
+ID1311,Own - None,81.64
+ID1312,Own - None,73.36
+ID1313,Own - None,51.2
+ID1314,Own - None,163.16
+ID1315,Own - None,123.84
+ID1316,Own - None,110.8
+ID1317,Own - None,57.92
+ID1318,Own - None,25.44
+ID1319,Own - None,41.12
+ID1320,Own - None,69.88
+ID1321,Own - None,199.88
+ID1322,Own - None,170.72
+ID1323,Own - None,171.92
+ID1324,Own - None,86.85714285714286
+ID1325,Own - None,74.08
+ID1326,Own - None,43.04
+ID1327,Rent - Not Specified,124.88
+ID1328,Own - None,151.4
+ID1329,Own - None,190.48
+ID1330,Own - None,182.4
+ID1331,Rent - Not Specified,41.32
+ID1332,Own - None,65.4
+ID1333,Own - None,176.32
+ID1334,Own - Boarders,174.28
+ID1335,Own - None,425.72
+ID1336,Own - None,238.68
+ID1337,Own - None,105.88
+ID1338,Own - None,114.48
+ID1339,Rent - Not Specified,81.0
+ID1340,Own - None,54.92
+ID1341,Own - None,15.96
+ID1342,Rent - Not Specified,108.0
+ID1343,Own - None,112.0
+ID1344,Own - None,92.56
+ID1345,Own - None,284.08
+ID1346,Own - None,206.84
+ID1347,Rent - Not Specified,76.56
+ID1348,Own - Renters,82.72
+ID1349,Own - None,9.04
+ID1350,Own - Renters,264.6
+ID1351,Rent - Not Specified,143.2
+ID1352,Own - None,82.12
+ID1353,Own - None,101.8
+ID1354,Own - None,224.12
+ID1355,Rent - Not Specified,124.48
+ID1356,Rent - Not Specified,83.32
+ID1357,Own - None,177.8
+ID1358,Rent - Not Specified,137.44
+ID1359,Own - None,82.64
+ID1360,Own - None,65.56
+ID1361,Own - None,91.32
+ID1362,Own - None,211.4
+ID1363,Own - None,92.16
+ID1364,Own - None,161.92
+ID1365,Rent - Not Specified,42.44
+ID1366,Own - None,95.32
+ID1367,Own - None,96.92
+ID1368,Own - None,39.88
+ID1369,Own - None,136.8
+ID1370,Own - None,61.68
+ID1371,Own - None,87.24
+ID1372,Own - None,49.0
+ID1373,Own - None,55.72
+ID1374,Own - None,135.72
+ID1375,Rent - Not Specified,99.625
+ID1376,Own - None,13.48
+ID1377,Own - None,329.88
+ID1378,Own - None,207.8
+ID1379,Own - None,172.04
+ID1380,Own - None,37.4
+ID1381,Own - None,167.96
+ID1382,Rent - Not Specified,156.6
+ID1383,Own - None,82.56
+ID1384,Own - None,153.6
+ID1385,Own - None,130.12
+ID1386,Own - None,82.0
+ID1387,Own - None,35.56
+ID1388,Rent - Not Specified,211.28
+ID1389,Own - None,55.92
+ID1390,Rent - Not Specified,24.84
+ID1391,Own - None,82.32
+ID1392,Rent - Not Specified,201.92
+ID1393,Own - None,101.2
+ID1394,Own - None,135.92
+ID1395,Own - None,80.12
+ID1396,Own - None,127.4
+ID1397,Own - None,9.0
+ID1398,Own - None,84.64
+ID1399,Own - None,195.92
+ID1400,Own - None,508.68
+ID1401,Own - None,9.84
+ID1402,Rent - Not Specified,87.0
+ID1403,Own - None,21.48
+ID1404,Own - None,97.44
+ID1405,Own - None,0.0
+ID1406,Own - Renters,170.04
+ID1407,Own - None,166.96
+ID1408,Own - None,122.28
+ID1409,Own - None,40.72
+ID1410,Rent - Not Specified,190.72
+ID1411,Rent - Not Specified,95.68
+ID1412,Own - None,88.72
+ID1413,Own - None,72.56
+ID1414,Own - None,101.65217391304348
+ID1415,Own - None,225.88
+ID1416,Own - None,56.84
+ID1417,Own - None,154.56
+ID1418,Own - None,63.76
+ID1419,Own - None,45.88
+ID1420,Own - None,199.96
+ID1421,Own - None,89.48
+ID1422,Own - None,83.6
+ID1423,Own - None,137.56
+ID1424,Own - None,112.0
+ID1425,Own - None,116.12
+ID1426,Own - None,109.76
+ID1427,Own - None,66.16
+ID1428,Rent - Not Specified,18.64
+ID1429,Own - None,93.28
+ID1430,Own - None,73.64
+ID1431,Rent - Not Specified,22.16
+ID1432,Own - None,31.92
+ID1433,Rent - Not Specified,101.88
+ID1434,Own - None,58.72
+ID1435,Own - None,88.92
+ID1436,Own - None,96.72
+ID1437,Own - None,96.28
+ID1438,Own - None,59.95652173913044
+ID1439,Own - None,31.4
+ID1440,Own - None,53.84
+ID1441,Own - None,48.64
+ID1442,Own - None,43.24
+ID1443,Own - None,219.96
+ID1444,Rent Free - Not Specified,112.82608695652173
+ID1445,Own - None,171.12
+ID1446,Own - None,9.24
+ID1447,Own - None,85.12
+ID1448,Own - None,24.2
+ID1449,Own - None,116.88
+ID1450,Own - None,65.64
+ID1451,Own - None,54.08
+ID1452,Rent - Not Specified,117.16
+ID1453,Rent - Not Specified,36.4
+ID1454,Own - None,151.16
+ID1455,Own - None,184.12
+ID1456,Own - None,87.72
+ID1457,Own - None,88.72
+ID1458,Own - None,355.08
+ID1459,Own - None,84.08
+ID1460,Rent - Not Specified,49.52173913043478
+ID1461,Own - None,253.52
+ID1462,Own - None,122.96
+ID1463,Own - None,18.04
+ID1464,Own - None,56.28
+ID1465,Own - None,114.68
+ID1466,Own - None,178.36
+ID1467,Own - None,12.28
+ID1468,Own - None,72.88
+ID1469,Own - None,84.44
+ID1470,Own - None,127.4
+ID1471,Own - None,82.48
+ID1472,Own - None,191.72
+ID1473,Own - None,73.44
+ID1474,Own - None,81.96
+ID1475,Own - None,95.56
+ID1476,Own - None,49.56
+ID1477,Own - None,92.6
+ID1478,Rent - Not Specified,458.88
+ID1479,Own - None,90.04
+ID1480,Own - None,140.8
+ID1481,Own - None,201.52
+ID1482,Own - None,51.36
+ID1483,Own - None,81.44
+ID1484,Own - None,524.0
+ID1485,Rent - Not Specified,63.44
+ID1486,Own - None,65.0
+ID1487,Rent - Not Specified,34.88
+ID1488,Own - None,145.84
+ID1489,Own - None,89.96
+ID1490,Own - None,124.92
+ID1491,Own - Renters,186.72
+ID1492,Own - None,107.92
+ID1493,Own - None,97.44
+ID1494,Own - None,72.84
+ID1495,Own - None,19.2
+ID1496,Own - None,290.4
+ID1497,Own - None,125.32
+ID1498,Own - None,84.64
+ID1499,Own - None,178.92
+ID1500,Own - None,81.4
+ID1501,Rent - Not Specified,12.48
+ID1502,Own - None,34.52
+ID1503,Own - None,46.64
+ID1504,Own - None,73.48
+ID1505,Own - None,56.42857142857143
+ID1506,Own - None,45.24
+ID1507,Own - None,160.04
+ID1508,Own - None,76.4
+ID1509,Own - None,29.8
+ID1510,Own - None,155.42857142857142
+ID1511,Rent - Not Specified,49.52
+ID1512,Own - None,203.32
+ID1513,Rent - Not Specified,20.24
+ID1514,Own - None,85.64
+ID1515,Own - None,25.68
+ID1516,Own - None,80.24
+ID1517,Own - None,66.4
+ID1518,Own - None,125.84
+ID1519,Rent - Not Specified,77.8
+ID1520,Rent - Not Specified,160.92
+ID1521,Own - None,897.625
+ID1522,Own - None,25.64
+ID1523,Own - None,85.96
+ID1524,Rent - Not Specified,93.08
+ID1525,Own - None,172.08
+ID1526,Own - None,65.24
+ID1527,Own - None,74.08
+ID1528,Own - None,59.36
+ID1529,Own - None,73.04
+ID1530,Own - None,61.24
+ID1531,Own - None,82.44
+ID1532,Own - None,76.8
+ID1533,Own - None,84.64
+ID1534,Own - None,23.16
+ID1535,Own - None,166.92
+ID1536,Rent - Not Specified,103.68
+ID1537,Own - None,49.28
+ID1538,Own - None,118.96
+ID1539,Own - None,48.24
+ID1540,Own - None,75.64
+ID1541,Own - None,231.6
+ID1542,Own - None,61.0
+ID1543,Rent - Not Specified,85.32
+ID1544,Own - None,63.84
+ID1545,Own - None,133.76
+ID1546,Own - None,124.64
+ID1547,Own - Boarders,70.52
+ID1548,Own - None,20.0
+ID1549,Own - None,39.28
+ID1550,Own - None,99.36
+ID1551,Own - None,132.04
+ID1552,Own - None,75.64
+ID1553,Own - None,96.2
+ID1554,Own - None,44.48
+ID1555,Own - Renters,105.12
+ID1556,Own - None,125.68
+ID1557,Own - None,65.08
+ID1558,Own - None,83.24
+ID1559,Own - None,175.0
+ID1560,Own - None,27.52
+ID1561,Own - None,13.72
+ID1562,Own - None,155.12
+ID1563,Own - None,64.68
+ID1564,Own - None,164.12
+ID1565,Own - None,254.2
+ID1566,Own - None,4.52
+ID1567,Rent - Not Specified,132.96
+ID1568,Own - None,29.32
+ID1569,Own - None,61.68
+ID1570,Own - None,137.68
+ID1571,Own - None,79.04
+ID1572,Own - None,62.25
+ID1573,Rent - Not Specified,166.52
+ID1574,Own - None,142.16
+ID1575,Rent - Not Specified,59.76
+ID1576,Own - None,140.6
+ID1577,Own - None,20.96
+ID1578,Own - None,317.12
+ID1579,Own - None,118.6
+ID1580,Own - None,108.04
+ID1581,Own - None,261.08
+ID1582,Own - None,63.96
+ID1583,Own - None,200.75
+ID1584,Own - None,12.6
+ID1585,Own - None,108.6
+ID1586,Own - None,124.0
+ID1587,Own - None,103.64
+ID1588,Rent - Not Specified,280.96
+ID1589,Own - None,113.48
+ID1590,Own - None,86.72
+ID1591,Own - None,123.24
+ID1592,Own - None,148.12
+ID1593,Own - None,134.4
+ID1594,Rent - Not Specified,141.6
+ID1595,Own - None,68.44
+ID1596,Own - None,86.16
+ID1597,Rent (Paid by Employer) - Not Specified,95.24
+ID1598,Own - None,91.28
+ID1599,Own - None,123.0
+ID1600,Own - None,259.4
+ID1601,Rent - Not Specified,75.28
+ID1602,Own - None,160.47826086956522
+ID1603,Own - None,269.04
+ID1604,Own - None,227.92
+ID1605,Own - None,215.4
+ID1606,Own - None,174.72
+ID1607,Own - None,87.33333333333333
+ID1608,Own - None,97.56
+ID1609,Own - None,57.0
+ID1610,Own - None,100.16
+ID1611,Own - None,192.2
+ID1612,Own - None,77.72
+ID1613,Own - None,244.6
+ID1614,Own - None,123.24
+ID1615,Own - None,131.92
+ID1616,Rent - Not Specified,97.96
+ID1617,Own - None,107.16
+ID1618,Own - None,94.48
+ID1619,Rent - Not Specified,151.92
+ID1620,Rent - Not Specified,229.96
+ID1621,Own - None,244.96
+ID1622,Own - None,238.4
+ID1623,Rent - Not Specified,177.96
+ID1624,Own - None,96.4
+ID1625,Own - None,652.0
+ID1626,Own - None,37.52
+ID1627,Own - None,209.68
+ID1628,Own - None,69.72
+ID1629,Own - None,105.52
+ID1630,Own - None,192.72
+ID1631,Own - None,71.92
+ID1632,Own - None,79.8
+ID1633,Own - None,97.84
+ID1634,Own - None,155.44
+ID1635,Own - None,56.6
+ID1636,Own - None,10.16
+ID1637,Own - None,83.92
+ID1638,Own - None,80.2
+ID1639,Own - None,21.44
+ID1640,Own - None,29.0
+ID1641,Own - None,165.28
+ID1642,Own - None,154.72
+ID1643,Own - None,93.56
+ID1644,Own - None,110.68
+ID1645,Rent - Not Specified,59.16
+ID1646,Own - None,216.0
+ID1647,Own - None,113.96
+ID1648,Own - None,72.08
+ID1649,Own - None,67.72
+ID1650,Own - None,117.44
+ID1651,Own - None,121.0
+ID1652,Own - None,72.72
+ID1653,Own - None,428.36
+ID1654,Rent Free - Not Specified,79.0
+ID1655,Own - None,106.2
+ID1656,Own - None,57.28
+ID1657,Own - None,180.08
+ID1658,Own - None,349.76
+ID1659,Own - None,191.24
+ID1660,Own - None,73.68
+ID1661,Own - None,60.84
+ID1662,Own - None,52.56
+ID1663,Rent - Not Specified,159.08
+ID1664,Own - None,97.68
+ID1665,Own - None,238.04
+ID1666,Own - None,417.88
+ID1667,Own - None,95.32
+ID1668,Own - None,123.44
+ID1669,Own - None,205.2
+ID1670,Own - None,32.48
+ID1671,Own - None,68.04
+ID1672,Own - None,231.88
+ID1673,Own - None,61.04
+ID1674,Own - None,56.68
+ID1675,Rent - Not Specified,77.6
+ID1676,Own - None,238.8
+ID1677,Own - None,300.72
+ID1678,Own - None,165.8
+ID1679,Own - None,247.72
+ID1680,Own - None,281.36
+ID1681,Own - None,168.12
+ID1682,Own - None,68.12
+ID1683,Own - None,257.88
+ID1684,Own - None,269.04
+ID1685,Own - None,113.0
+ID1686,Own - None,240.72
+ID1687,Own - None,149.36
+ID1688,Own - None,53.36
+ID1689,Own - None,193.68
+ID1690,Own - None,92.56
+ID1691,Own - None,63.92
+ID1692,Own - None,91.4
+ID1693,Own - None,147.76
+ID1694,Own - None,174.36
+ID1695,Own - None,50.25
+ID1696,Own - None,72.52
+ID1697,Own - None,204.24
+ID1698,Own - None,79.16
+ID1699,Own - None,16.6
+ID1700,Own - None,180.28
+ID1701,Own - None,102.04
+ID1702,Own - None,44.04
+ID1703,Own - None,126.6
+ID1704,Own - None,134.52
+ID1705,Own - None,104.52
+ID1706,Own - None,37.88
+ID1707,Own - None,28.88
+ID1708,Own - None,153.28
+ID1709,Own - None,186.04166666666666
+ID1710,Own - None,159.16
+ID1711,Own - None,70.0
+ID1712,Own - None,54.04
+ID1713,Own - Boarders,183.76
+ID1714,Own - None,122.52
+ID1715,Own - None,190.8695652173913
+ID1716,Rent - Not Specified,227.08
+ID1717,Own - None,95.96
+ID1718,Own - None,314.96
+ID1719,Own - None,108.84
+ID1720,Own - None,147.96
+ID1721,Own - None,274.36
+ID1722,Own - None,98.76
+ID1723,Rent - Not Specified,92.44
+ID1724,Own - None,40.88
+ID1725,Own - None,505.44
+ID1726,Own - None,63.32
+ID1727,Own - None,65.32
+ID1728,Own - None,122.72
+ID1729,Own - None,162.92
+ID1730,Own - None,187.88
+ID1731,Own - None,61.8
+ID1732,Own - None,137.4
+ID1733,Rent Free - Not Specified,67.16
+ID1734,Rent - Not Specified,155.24
+ID1735,Own - Renters,7.64
+ID1736,Own - None,121.08
+ID1737,Own - None,139.72
+ID1738,Own - None,81.0
+ID1739,Own - None,152.68
+ID1740,Own - None,64.48
+ID1741,Own - None,144.44
+ID1742,Own - None,148.88
+ID1743,Own - None,588.4
+ID1744,Rent Free - Not Specified,37.8
+ID1745,Own - None,88.32
+ID1746,Rent - Not Specified,145.16
+ID1747,Own - None,543.2
+ID1748,Own - None,67.28
+ID1749,Rent Free - Not Specified,193.36
+ID1750,Own - None,95.24
+ID1751,Rent Free - Not Specified,150.96
+ID1752,Own - None,100.72
+ID1753,Own - None,108.2
+ID1754,Own - None,68.4
+ID1755,Own - None,53.44
+ID1756,Own - None,58.12
+ID1757,Own - None,133.72
+ID1758,Own - None,109.64
+ID1759,Own - None,21.44
+ID1760,Own - None,56.28
+ID1761,Own - None,68.8
+ID1762,Own - None,402.96
+ID1763,Own - None,25.76
+ID1764,Own - None,115.16666666666667
+ID1765,Own - None,63.4
+ID1766,Own - None,67.84
+ID1767,Rent - Not Specified,78.28
+ID1768,Own - None,222.92
+ID1769,Own - None,85.08
+ID1770,Own - None,130.4
+ID1771,Own - None,241.88
+ID1772,Rent - Not Specified,8.6
+ID1773,Own - None,198.48
+ID1774,Own - None,149.4
+ID1775,Own - None,102.48
+ID1776,Own - None,120.4
+ID1777,Rent - Not Specified,351.32
+ID1778,Own - None,217.68
+ID1779,Own - None,75.64
+ID1780,Own - None,110.72
+ID1781,Rent - Not Specified,364.68
+ID1782,Own - None,3.52
+ID1783,Own - None,0.12
+ID1784,Own - None,292.16
+ID1785,Own - None,81.88
+ID1786,Own - None,41.04
+ID1787,Rent - Not Specified,74.88
+ID1788,Own - None,14.16
+ID1789,Own - None,77.64
+ID1790,Own - None,323.68
+ID1791,Own - None,82.28
+ID1792,Own - None,876.1363636363636
+ID1793,Own - None,94.52
+ID1794,Own - None,130.8
+ID1795,Own - None,23.32
+ID1796,Own - None,147.68
+ID1797,Own - None,115.84
+ID1798,Own - None,138.52
+ID1799,Own - None,18.56
+ID1800,Own - None,74.6
+ID1801,Own - None,63.48
+ID1802,Own - None,1.3043478260869565
+ID1803,Own - None,76.72
+ID1804,Own - None,89.24
+ID1805,Rent - Not Specified,113.96
+ID1806,Own - None,63.04
+ID1807,Own - None,49.2
+ID1808,Own - None,32.72
+ID1809,Own - None,58.88
+ID1810,Own - None,115.8
+ID1811,Own - None,101.12
+ID1812,Own - None,154.6153846153846
+ID1813,Own - None,70.32
+ID1814,Own - None,84.88
+ID1815,Own - None,45.32
+ID1816,Own - None,275.44
+ID1817,Own - None,137.64
+ID1818,Own - None,323.68
+ID1819,Own - None,112.04
+ID1820,Own - None,206.32
+ID1821,Own - None,234.96
+ID1822,Own - None,99.08
+ID1823,Own - None,72.24
+ID1824,Own - None,64.8
+ID1825,Own - None,61.64
+ID1826,Own - None,90.36
+ID1827,Own - None,80.64
+ID1828,Own - None,198.84
+ID1829,Own - None,81.8
+ID1830,Own - None,102.08
+ID1831,Own - None,80.24
+ID1832,Own - None,66.08
+ID1833,Own - None,79.8
+ID1834,Own - None,102.64
+ID1835,Rent - Not Specified,131.76
+ID1836,Rent - Not Specified,83.12
+ID1837,Own - None,10.36
+ID1838,Own - None,187.56
+ID1839,Rent - Not Specified,34.72
+ID1840,Own - None,60.6
+ID1841,Own - None,7.0
+ID1842,Own - None,103.2
+ID1843,Own - None,138.72
+ID1844,Own - None,91.36
+ID1845,Own - None,156.28
+ID1846,Own - None,180.8
+ID1847,Own - None,184.68
+ID1848,Own - None,96.92
+ID1849,Own - None,0.0
+ID1850,Own - None,137.8
+ID1851,Own - None,75.56
+ID1852,Own - None,20.44
+ID1853,Own - None,112.52
+ID1854,Own - None,163.16
+ID1855,Own - None,114.24
+ID1856,Rent - Not Specified,126.88
+ID1857,Rent - Not Specified,155.16666666666666
+ID1858,Rent - Not Specified,107.56
+ID1859,Own - None,29.2
+ID1860,Own - Renters,74.76
+ID1861,Own - None,83.16
+ID1862,Own - None,151.72
+ID1863,Own - None,113.16
+ID1864,Own - None,20.4
+ID1865,Own - None,43.16
+ID1866,Own - None,62.12
+ID1867,Own - None,60.56
+ID1868,Own - None,185.0
+ID1869,Own - None,83.6
+ID1870,Own - None,124.36
+ID1871,Rent - Not Specified,92.96
+ID1872,Own - None,452.6
+ID1873,Own - None,118.21428571428571
+ID1874,Own - None,138.64
+ID1875,Own - None,158.44
+ID1876,Own - None,48.72
+ID1877,Own - Boarders,197.84
+ID1878,Own - Renters,124.6
+ID1879,Own - None,80.52
+ID1880,Own - None,235.68
+ID1881,Own - None,172.56
+ID1882,Own - None,16.84
+ID1883,Own - None,102.68
+ID1884,Own - Renters,87.36
+ID1885,Own - None,24.92
+ID1886,Own - None,83.28
+ID1887,Own - None,149.92
+ID1888,Rent - Not Specified,67.04
+ID1889,Own - None,90.16
+ID1890,Rent - Not Specified,66.84
+ID1891,Own - None,58.36
+ID1892,Own - None,48.8
+ID1893,Own - None,76.2
+ID1894,Own - None,53.16
+ID1895,Own - None,217.08
+ID1896,Own - None,108.52
+ID1897,Rent - Not Specified,78.56
+ID1898,Rent - Not Specified,50.36
+ID1899,Own - None,89.0
+ID1900,Own - None,17.4
+ID1901,Own - None,105.04
+ID1902,Own - None,155.16
+ID1903,Own - None,56.36
+ID1904,Own - None,27.08
+ID1905,Own - None,32.76
+ID1906,Own - None,173.44
+ID1907,Rent - Not Specified,74.88
+ID1908,Own - None,171.4
+ID1909,Own - None,65.48
+ID1910,Own - None,38.24
+ID1911,Own - None,93.76
+ID1912,Own - None,149.12
+ID1913,Own - None,104.12
+ID1914,Own - None,8.04
+ID1915,Own - None,88.4
+ID1916,Own - None,155.16
+ID1917,Rent Free - Not Specified,142.44
+ID1918,Own - None,132.24
+ID1919,Rent - Not Specified,70.76
+ID1920,Own - None,102.92
+ID1921,Own - None,11.64
+ID1922,Rent - Not Specified,74.96
+ID1923,Own - None,62.64
+ID1924,Rent Free - Not Specified,151.45833333333334
+ID1925,Own - None,173.24
+ID1926,Own - None,183.28
+ID1927,Own - None,43.52
+ID1928,Own - None,25.88
+ID1929,Own - None,98.84
+ID1930,Own - None,36.88
+ID1931,Own - None,141.0
+ID1932,Rent - Not Specified,48.16
+ID1933,Own - None,153.88
+ID1934,Own - None,86.04
+ID1935,Own - None,76.04
+ID1936,Own - None,97.24
+ID1937,Own - None,213.44
+ID1938,Own - None,50.80952380952381
+ID1939,Own - None,31.0
+ID1940,Own - None,48.52
+ID1941,Own - None,78.04
+ID1942,Own - None,148.16
+ID1943,Own - None,74.07142857142857
+ID1944,Own - None,64.88
+ID1945,Own - None,272.96
+ID1946,Rent - Not Specified,63.68
+ID1947,Own - None,379.16
+ID1948,Own - None,95.24
+ID1949,Own - None,139.72
+ID1950,Own - None,1073.96
+ID1951,Own - None,48.84
+ID1952,Own - None,115.6
+ID1953,Own - None,36.92
+ID1954,Own - None,70.12
+ID1955,Own - Boarders,113.32
+ID1956,Rent - Not Specified,286.12
+ID1957,Own - None,113.05263157894737
+ID1958,Rent - Not Specified,18.52
+ID1959,Own - None,174.64
+ID1960,Own - None,83.88
+ID1961,Rent - Not Specified,181.12
+ID1962,Own - None,51.2
+ID1963,Own - None,1.36
+ID1964,Own - None,150.36
+ID1965,Own - None,254.45833333333334
+ID1966,Own - None,131.76
+ID1967,Own - None,42.12
+ID1968,Own - None,92.16
+ID1969,Own - None,561.96
+ID1970,Rent - Not Specified,108.92
+ID1971,Own - None,101.96
+ID1972,Own - None,82.84
+ID1973,Rent - Not Specified,55.8
+ID1974,Own - None,127.04
+ID1975,Own - None,52.28
+ID1976,Own - None,12.4
+ID1977,Own - None,71.84
+ID1978,Own - None,342.56
+ID1979,Own - None,106.48
+ID1980,Own - None,126.2
+ID1981,Rent Free - Not Specified,86.64
+ID1982,Own - None,179.2
+ID1983,Own - None,97.52
+ID1984,Own - None,118.08
+ID1985,Own - None,212.96
+ID1986,Own - None,0.0
+ID1987,Rent Free - Not Specified,149.96
+ID1988,Own - None,31.96
+ID1989,Rent - Not Specified,29.8
+ID1990,Own - None,117.56
+ID1991,Own - None,117.72
+ID1992,Own - None,387.84
+ID1993,Own - None,214.16
+ID1994,Own - None,130.64
+ID1995,Own - None,95.52
+ID1996,Own - None,78.88
+ID1997,Own - None,135.36
+ID1998,Own - None,186.8
+ID1999,Own - None,47.68
+ID2000,Own - None,77.8
+ID2001,Own - None,247.2
+ID2002,Own - None,80.56
+ID2003,Own - None,33.4
+ID2004,Own - None,70.52
+ID2005,Own - None,71.56
+ID2006,Own - None,50.48
+ID2007,Rent - Not Specified,38.28
+ID2008,Own - None,186.68
+ID2009,Own - None,158.54166666666666
+ID2010,Own - None,52.92
+ID2011,Own - None,105.92
+ID2012,Rent - Not Specified,129.88
+ID2013,Rent - Not Specified,97.48
+ID2014,Rent - Not Specified,74.84
+ID2015,Own - None,5.4
+ID2016,Rent - Not Specified,57.68
+ID2017,Own - None,511.92
+ID2018,Own - None,46.09090909090909
+ID2019,Rent - Not Specified,22.6
+ID2020,Own - None,78.64
+ID2021,Own - None,89.56
+ID2022,Own - None,79.88
+ID2023,Own - None,181.0
+ID2024,Rent - Not Specified,18.64
+ID2025,Own - None,100.36
+ID2026,Own - None,121.8
+ID2027,Own - None,280.08
+ID2028,Own - None,99.6
+ID2029,Rent - Not Specified,58.31818181818182
+ID2030,Own - None,84.68
+ID2031,Own - None,56.64
+ID2032,Own - None,112.2
+ID2033,Own - Boarders,93.84
+ID2034,Own - None,19.96
+ID2035,Own - None,105.16666666666667
+ID2036,Rent - Not Specified,140.24
+ID2037,Own - None,87.84
+ID2038,Own - None,150.2
+ID2039,Own - None,40.0
+ID2040,Own - None,124.0
+ID2041,Own - None,233.52
+ID2042,Own - None,355.24
+ID2043,Own - None,98.52
+ID2044,Own - None,64.2
+ID2045,Rent - Not Specified,145.12
+ID2046,Own - None,112.04
+ID2047,Own - None,205.84
+ID2048,Own - None,127.32
+ID2049,Own - None,119.08
+ID2050,Own - None,37.64
+ID2051,Rent - Not Specified,125.4
+ID2052,Own - None,44.44
+ID2053,Own - None,87.92
+ID2054,Rent - Not Specified,111.52
+ID2055,Rent - Not Specified,11.0
+ID2056,Rent - Not Specified,73.0
+ID2057,Rent - Not Specified,187.0
+ID2058,Own - None,297.0
+ID2059,Own - None,83.12
+ID2060,Own - None,121.44
+ID2061,Rent - Not Specified,86.36
+ID2062,Own - None,105.6
+ID2063,Own - None,85.88
+ID2064,Rent - Not Specified,297.72
+ID2065,Own - None,84.68
+ID2066,Own - None,82.16
+ID2067,Own - None,114.48
+ID2068,Own - None,78.92
+ID2069,Own - None,70.44
+ID2070,Own - None,94.52
+ID2071,Rent - Not Specified,125.16
+ID2072,Own - None,429.96
+ID2073,Own - None,78.88
+ID2074,Own - None,33.76
+ID2075,Own - None,33.48
+ID2076,Own - None,187.12
+ID2077,Own - None,213.92
+ID2078,Rent - Not Specified,88.04
+ID2079,Rent - Not Specified,142.88
+ID2080,Own - None,193.04
+ID2081,Own - None,105.4
+ID2082,Own - None,172.88
+ID2083,Own - None,139.44
+ID2084,Rent - Not Specified,82.92
+ID2085,Own - None,29.24
+ID2086,Own - None,74.0
+ID2087,Own - None,53.04
+ID2088,Own - None,4.0
+ID2089,Own - None,84.56
+ID2090,Own - None,97.25
+ID2091,Own - None,92.6
+ID2092,Own - None,55.52
+ID2093,Own - None,25.92
+ID2094,Rent - Not Specified,73.84
+ID2095,Own - None,411.375
+ID2096,Own - None,80.48
+ID2097,Own - None,191.76
+ID2098,Own - None,27.32
+ID2099,Own - None,86.0
+ID2100,Own - None,88.12
+ID2101,Own - None,163.6
+ID2102,Own - None,27.08
+ID2103,Own - None,58.12
+ID2104,Own - None,54.4
+ID2105,Own - None,103.8
+ID2106,Own - None,129.6
+ID2107,Own - None,126.12
+ID2108,Own - None,175.72
+ID2109,Own - None,62.76
+ID2110,Own - None,78.92
+ID2111,Rent - Not Specified,83.92
+ID2112,Own - None,157.0
+ID2113,Own - None,175.84
+ID2114,Own - None,180.36
+ID2115,Own - None,65.4
+ID2116,Own - None,110.8
+ID2117,Own - None,274.0
+ID2118,Own - None,175.6
+ID2119,Own - None,60.96
+ID2120,Own - None,27.96
+ID2121,Own - None,48.72
+ID2122,Own - None,156.72
+ID2123,Own - None,58.56
+ID2124,Own - None,0.08
+ID2125,Own - None,0.0
+ID2126,Own - None,95.0
+ID2127,Rent - Not Specified,105.44
+ID2128,Rent - Not Specified,50.48
+ID2129,Own - None,87.0
+ID2130,Rent - Not Specified,79.68
+ID2131,Own - None,230.6
+ID2132,Own - None,159.44
+ID2133,Own - None,114.64
+ID2134,Own - None,56.16
+ID2135,Rent Free - Not Specified,21.8
+ID2136,Own - Renters,53.16
+ID2137,Own - None,226.64
+ID2138,Own - None,87.16
+ID2139,Rent - Not Specified,119.28
+ID2140,Own - None,344.16
+ID2141,Own - None,165.28
+ID2142,Own - None,165.68
+ID2143,Own - None,121.04
+ID2144,Own - None,182.32
+ID2145,Own - None,6.12
+ID2146,Own - None,77.36
+ID2147,Own - None,269.12
+ID2148,Own - None,83.72
+ID2149,Own - None,197.32
+ID2150,Own - None,192.32
+ID2151,Own - None,83.4
+ID2152,Rent - Not Specified,144.8
+ID2153,Own - None,186.28
+ID2154,Rent - Not Specified,12.56
+ID2155,Own - None,120.28
+ID2156,Rent - Not Specified,62.36
+ID2157,Own - None,64.04
+ID2158,Own - None,16.32
+ID2159,Own - None,42.44
+ID2160,Own - None,58.88
+ID2161,Own - None,182.04166666666666
+ID2162,Own - None,0.24
+ID2163,Own - None,316.68
+ID2164,Own - None,45.16
+ID2165,Own - None,129.24
+ID2166,Own - None,57.64
+ID2167,Own - None,364.16
+ID2168,Own - Renters,125.4
+ID2169,Rent - Not Specified,78.0
+ID2170,Own - None,180.2
+ID2171,Own - None,73.4
+ID2172,Own - None,146.92
+ID2173,Own - None,107.48
+ID2174,Own - None,81.36
+ID2175,Own - None,123.44
+ID2176,Own - None,91.52
+ID2177,Own - None,37.0
+ID2178,Own - None,78.92
+ID2179,Own - None,216.68
+ID2180,Own - None,67.84
+ID2181,Own - None,50.64
+ID2182,Own - None,102.73333333333333
+ID2183,Own - None,69.72
+ID2184,Own - None,121.52
+ID2185,Own - None,86.36
+ID2186,Own - None,945.48
+ID2187,Own - None,37.32
+ID2188,Own - None,41.16
+ID2189,Own - None,67.96
+ID2190,Own - None,47.6
+ID2191,Rent - Not Specified,31.6
+ID2192,Own - None,51.68
+ID2193,Own - None,163.36
+ID2194,Own - None,283.04
+ID2195,Rent - Not Specified,132.16
+ID2196,Own - None,38.24
+ID2197,Own - None,48.28
+ID2198,Own - None,160.56
+ID2199,Own - None,2.16
+ID2200,Own - None,70.0
+ID2201,Rent Free - Not Specified,110.64
+ID2202,Own - None,103.68
+ID2203,Own - None,51.24
+ID2204,Own - None,8.16
+ID2205,Own - None,179.24
+ID2206,Own - None,45.76
+ID2207,Own - None,137.4
+ID2208,Rent - Not Specified,106.8
+ID2209,Own - None,241.96
+ID2210,Own - None,259.0
+ID2211,Own - None,128.36
+ID2212,Own - None,72.44
+ID2213,Rent - Not Specified,77.84
+ID2214,Rent Free - Not Specified,56.24
+ID2215,Own - None,77.44
+ID2216,Own - None,10.6
+ID2217,Rent - Not Specified,520.36
+ID2218,Own - None,203.41666666666666
+ID2219,Own - None,292.08
+ID2220,Own - None,551.44
+ID2221,Own - None,323.24
+ID2222,Own - None,43.2
+ID2223,Own - None,260.2
+ID2224,Own - None,42.8
+ID2225,Own - None,92.72
+ID2226,Own - None,130.76
+ID2227,Rent - Not Specified,64.0
+ID2228,Own - None,147.08
+ID2229,Own - None,323.4
+ID2230,Own - None,173.88
+ID2231,Own - None,97.4
+ID2232,Own - None,30.2
+ID2233,Own - None,94.96
+ID2234,Own - None,96.6
+ID2235,Own - None,86.95652173913044
+ID2236,Rent - Not Specified,62.68
+ID2237,Own - None,100.24
+ID2238,Own - None,63.9
+ID2239,Own - None,183.32
+ID2240,Rent - Not Specified,117.52
+ID2241,Own - None,89.04
+ID2242,Own - None,68.0
+ID2243,Rent - Not Specified,128.8
+ID2244,Rent Free - Not Specified,94.52
+ID2245,Own - None,101.92
+ID2246,Rent - Not Specified,206.2
+ID2247,Own - None,126.92
+ID2248,Own - None,174.36
+ID2249,Own - None,124.24
+ID2250,Own - None,127.76
+ID2251,Own - None,442.76
+ID2252,Own - None,50.88
+ID2253,Own - Renters,68.68
+ID2254,Rent - Not Specified,118.8
+ID2255,Rent - Not Specified,77.32
+ID2256,Own - None,0.28
+ID2257,Own - None,247.96
+ID2258,Own - None,41.32
+ID2259,Own - None,89.36
+ID2260,Own - None,77.24
+ID2261,Own - None,120.88
+ID2262,Own - None,257.36
+ID2263,Own - None,127.92
+ID2264,Own - None,65.72
+ID2265,Own - None,111.6
+ID2266,Own - None,130.08
+ID2267,Own - None,22.6
+ID2268,Own - None,69.32
+ID2269,Rent - Not Specified,99.8
+ID2270,Own - None,629.9565217391304
+ID2271,Own - None,51.8
+ID2272,Own - None,17.952380952380953
+ID2273,Own - None,251.48
+ID2274,Rent - Not Specified,92.12
+ID2275,Own - None,167.12
+ID2276,Own - None,142.8
+ID2277,Own - None,56.72
+ID2278,Own - None,271.56
+ID2279,Own - None,84.08
+ID2280,Own - None,228.44
+ID2281,Rent - Not Specified,105.72
+ID2282,Own - None,57.68
+ID2283,Own - None,22.8
+ID2284,Rent - Not Specified,72.36
+ID2285,Own - None,132.84
+ID2286,Own - None,96.32
+ID2287,Own - None,78.04
+ID2288,Own - None,239.0
+ID2289,Own - None,114.72
+ID2290,Own - None,22.04
+ID2291,Own - None,28.96
+ID2292,Own - None,57.72
+ID2293,Rent - Not Specified,136.2
+ID2294,Rent - Not Specified,91.64
+ID2295,Own - None,43.04
+ID2296,Own - None,43.4
+ID2297,Own - None,48.96
+ID2298,Own - None,77.76
+ID2299,Own - None,25.84
+ID2300,Own - None,98.84
+ID2301,Own - None,0.0
+ID2302,Own - None,102.68
+ID2303,Own - None,70.52
+ID2304,Own - None,50.96
+ID2305,Own - None,18.32
+ID2306,Own - None,234.88
+ID2307,Own - None,217.68
+ID2308,Own - None,114.0
+ID2309,Own - None,79.48
+ID2310,Own - None,194.76
+ID2311,Own - None,91.48
+ID2312,Own - None,379.4
+ID2313,Own - None,232.28
+ID2314,Own - None,108.12
+ID2315,Rent - Not Specified,53.88
+ID2316,Own - None,98.76
+ID2317,Own - None,246.58333333333334
+ID2318,Rent - Not Specified,55.4
+ID2319,Own - None,93.96
+ID2320,Own - None,49.04
+ID2321,Own - None,108.0
+ID2322,Own - None,85.76
+ID2323,Own - None,245.64
+ID2324,Own - None,98.96
+ID2325,Own - None,0.48
+ID2326,Own - None,36.0
+ID2327,Own - None,46.2
+ID2328,Own - None,111.96
+ID2329,Own - None,129.36
+ID2330,Own - None,143.4
+ID2331,Own - None,74.24
+ID2332,Own - None,112.64
+ID2333,Rent Free - Not Specified,55.68
+ID2334,Own - None,89.76
+ID2335,Own - None,302.64
+ID2336,Rent - Not Specified,26.12
+ID2337,Own - None,62.76
+ID2338,Own - None,198.0
+ID2339,Own - Renters,59.44
+ID2340,Rent - Not Specified,27.04
+ID2341,Rent - Not Specified,60.72
+ID2342,Own - None,179.28
+ID2343,Own - None,76.44
+ID2344,Own - None,145.6
+ID2345,Own - None,65.48
+ID2346,Own - None,145.36
+ID2347,Own - None,44.32
+ID2348,Own - None,75.9090909090909
+ID2349,Rent - Not Specified,83.68
+ID2350,Own - None,319.24
+ID2351,Own - None,98.4
+ID2352,Own - None,35.56
+ID2353,Rent - Not Specified,81.72
+ID2354,Own - None,125.68
+ID2355,Own - None,185.96
+ID2356,Own - None,142.84
+ID2357,Own - None,104.32
+ID2358,Own - None,130.08
+ID2359,Rent - Not Specified,157.12
+ID2360,Own - None,108.6
+ID2361,Own - None,99.92
+ID2362,Rent - Not Specified,73.8
+ID2363,Own - None,381.36
+ID2364,Rent - Not Specified,43.0
+ID2365,Own - None,80.72
+ID2366,Rent - Not Specified,80.92
+ID2367,Own - Renters,69.28
+ID2368,Own - None,215.32
+ID2369,Own - None,114.08
+ID2370,Own - None,102.92
+ID2371,Own - None,82.84
+ID2372,Own - None,223.0
+ID2373,Own - None,1.44
+ID2374,Own - None,70.6
+ID2375,Own - None,81.8
+ID2376,Own - None,120.68
+ID2377,Own - None,214.6
+ID2378,Own - None,75.8
+ID2379,Own - None,152.88
+ID2380,Own - Renters,91.84
+ID2381,Own - None,108.24
+ID2382,Own - None,117.8
+ID2383,Own - None,95.6
+ID2384,Rent Free - Not Specified,171.52
+ID2385,Own - None,59.32
+ID2386,Own - None,131.0
+ID2387,Own - None,140.48
+ID2388,Own - None,151.28
+ID2389,Rent - Not Specified,56.16
+ID2390,Rent - Not Specified,58.36
+ID2391,Own - None,388.92
+ID2392,Own - None,68.6
+ID2393,Own - None,86.4
+ID2394,Own - None,127.91666666666667
+ID2395,Own - None,219.76
+ID2396,Rent - Not Specified,149.44
+ID2397,Own - None,95.0
+ID2398,Own - Boarders,226.96
+ID2399,Own - None,40.28
+ID2400,Rent - Not Specified,76.96
+ID2401,Own - None,21.72
+ID2402,Own - None,63.36
+ID2403,Own - None,44.8
+ID2404,Own - None,91.76
+ID2405,Own - None,96.4
+ID2406,Own - None,100.6
+ID2407,Rent - Not Specified,135.44
+ID2408,Own - None,93.0
+ID2409,Own - None,154.88
+ID2410,Own - None,108.72
+ID2411,Own - None,190.92
+ID2412,Own - None,109.0
+ID2413,Own - None,89.16
+ID2414,Own - None,105.52
+ID2415,Own - None,69.4
+ID2416,Own - None,312.24
+ID2417,Own - None,231.96
+ID2418,Own - None,146.0
+ID2419,Own - None,170.24
+ID2420,Own - None,492.92
+ID2421,Own - None,109.4
+ID2422,Own - None,257.16
+ID2423,Own - None,35.0
+ID2424,Own - None,74.12
+ID2425,Own - None,141.44
+ID2426,Rent - Not Specified,122.29166666666667
+ID2427,Own - None,110.76
+ID2428,Own - None,98.4
+ID2429,Own - None,84.2
+ID2430,Own - None,86.76
+ID2431,Own - None,118.48
+ID2432,Own - None,84.8
+ID2433,Own - None,162.48
+ID2434,Own - None,19.68
+ID2435,Own - None,35.6
+ID2436,Own - None,88.08
+ID2437,Own - None,112.16
+ID2438,Own - None,168.84
+ID2439,Own - None,307.4347826086956
+ID2440,Rent - Not Specified,203.32
+ID2441,Own - None,83.4
+ID2442,Own - None,68.0
+ID2443,Rent - Not Specified,83.96
+ID2444,Own - None,6.08
+ID2445,Own - None,29.32
+ID2446,Own - None,97.0
+ID2447,Own - None,4.72
+ID2448,Own - None,180.92
+ID2449,Own - None,58.68
+ID2450,Own - None,343.6
+ID2451,Own - None,83.28
+ID2452,Own - None,100.24
+ID2453,Own - None,79.16
+ID2454,Own - None,160.64
+ID2455,Rent - Not Specified,53.52
+ID2456,Own - None,154.0
+ID2457,Rent - Not Specified,59.72
+ID2458,Own - None,98.24
+ID2459,Own - None,103.96
+ID2460,Own - None,80.52
+ID2461,Own - None,80.0
+ID2462,Own - None,272.16
+ID2463,Own - None,29.8
+ID2464,Own - None,80.2
+ID2465,Own - None,37.88
+ID2466,Own - None,39.56
+ID2467,Own - None,121.2
+ID2468,Rent - Not Specified,100.84
+ID2469,Own - None,200.8
+ID2470,Own - None,249.0
+ID2471,Own - None,69.84
+ID2472,Own - None,40.2
+ID2473,Own - None,127.24
+ID2474,Own - None,120.68
+ID2475,Rent - Not Specified,47.96
+ID2476,Own - None,99.32
+ID2477,Own - None,46.36
+ID2478,Own - None,0.08
+ID2479,Rent - Not Specified,45.24
+ID2480,Own - None,313.16
+ID2481,Rent - Not Specified,326.24
+ID2482,Own - Renters,100.44
+ID2483,Own - None,137.68
+ID2484,Own - None,48.28
+ID2485,Own - None,89.48
+ID2486,Rent - Not Specified,284.44
+ID2487,Own - Renters,39.6
+ID2488,Rent - Not Specified,60.08
+ID2489,Rent Free - Not Specified,60.88
+ID2490,Rent - Not Specified,137.4
+ID2491,Own - None,80.64
+ID2492,Own - None,39.16
+ID2493,Own - None,88.76
+ID2494,Own - None,109.6
+ID2495,Own - None,11.08
+ID2496,Own - None,134.4
+ID2497,Own - None,126.28
+ID2498,Own - None,78.28
+ID2499,Own - None,105.28
+ID2500,Own - None,41.6
+ID2501,Own - Renters,46.92
+ID2502,Own - None,56.28
+ID2503,Own - None,160.88
+ID2504,Own - None,90.32
+ID2505,Own - None,119.48
+ID2506,Own - None,34.72
+ID2507,Own - None,97.6
+ID2508,Own - None,85.32
+ID2509,Own - None,29.32
+ID2510,Own - None,77.28
+ID2511,Own - None,44.32
+ID2512,Own - None,106.36
+ID2513,Own - None,117.16
+ID2514,Own - None,119.4
+ID2515,Rent - Not Specified,90.0
+ID2516,Own - None,42.0
+ID2517,Rent - Not Specified,103.6
+ID2518,Own - None,103.56
+ID2519,Own - None,89.68
+ID2520,Own - None,132.88
+ID2521,Own - None,104.88
+ID2522,Own - None,83.4
+ID2523,Own - None,72.92
+ID2524,Own - None,203.88
+ID2525,Rent - Not Specified,83.72
+ID2526,Own - None,208.33333333333334
+ID2527,Own - None,83.96
+ID2528,Own - None,170.64
+ID2529,Own - None,54.68
+ID2530,Own - None,31.0
+ID2531,Own - None,49.2
+ID2532,Own - None,162.76
+ID2533,Own - None,294.68
+ID2534,Own - None,0.0
+ID2535,Own - None,98.88
+ID2536,Own - None,83.04
+ID2537,Own - None,85.2
+ID2538,Own - None,87.56
+ID2539,Own - None,104.04
+ID2540,Own - None,78.96
+ID2541,Own - None,75.48
+ID2542,Own - None,12.44
+ID2543,Rent - Not Specified,0.8
+ID2544,Rent - Not Specified,60.24
+ID2545,Own - None,164.12
+ID2546,Own - None,47.24
+ID2547,Own - None,117.88
+ID2548,Own - None,85.64
+ID2549,Own - None,38.6
+ID2550,Own - None,34.56
+ID2551,Own - None,131.4
+ID2552,Own - None,157.12
+ID2553,Own - Boarders,161.66666666666666
+ID2554,Own - None,117.2
+ID2555,Own - None,97.28
+ID2556,Own - Renters,39.52
+ID2557,Own - None,98.88
+ID2558,Rent Free - Not Specified,134.16
+ID2559,Own - None,242.04
+ID2560,Own - None,279.6
+ID2561,Own - None,334.12
+ID2562,Own - None,27.08695652173913
+ID2563,Own - None,89.48
+ID2564,Own - None,156.24
+ID2565,Own - None,74.48
+ID2566,Own - None,123.44
+ID2567,Own - None,104.48
+ID2568,Own - None,189.64
+ID2569,Own - None,97.4
+ID2570,Own - None,104.95833333333333
+ID2571,Own - None,97.32
+ID2572,Own - None,57.32
+ID2573,Own - None,150.52
+ID2574,Own - None,27.52
+ID2575,Own - None,51.24
+ID2576,Own - None,108.88
+ID2577,Own - None,165.0
+ID2578,Own - None,54.88
+ID2579,Own - None,41.8
+ID2580,Own - None,90.72
+ID2581,Own - None,212.8
+ID2582,Rent Free - Not Specified,38.904761904761905
+ID2583,Own - None,193.32
+ID2584,Own - None,250.08
+ID2585,Own - None,99.6
+ID2586,Own - None,195.84
+ID2587,Own - None,94.4
+ID2588,Own - None,479.72
+ID2589,Rent Free - Not Specified,73.76
+ID2590,Rent Free - Not Specified,123.68
+ID2591,Own - None,6.16
+ID2592,Own - None,12.96
+ID2593,Own - None,103.2
+ID2594,Own - None,161.08
+ID2595,Own - None,48.4
+ID2596,Own - None,148.04
+ID2597,Own - None,141.2
+ID2598,Own - None,114.44
+ID2599,Own - None,118.24
+ID2600,Rent - Not Specified,158.56
+ID2601,Own - None,106.52
+ID2602,Rent - Not Specified,65.64
+ID2603,Own - None,86.08
+ID2604,Own - None,165.92
+ID2605,Own - None,104.16
+ID2606,Own - None,78.52
+ID2607,Own - None,29.72
+ID2608,Own - None,150.76
+ID2609,Own - None,382.8
+ID2610,Own - None,194.56
+ID2611,Own - None,61.32
+ID2612,Own - None,70.56
+ID2613,Own - None,139.92
+ID2614,Own - None,469.48
+ID2615,Own - None,165.6
+ID2616,Own - None,515.32
+ID2617,Own - None,47.2
+ID2618,Rent - Not Specified,92.92
+ID2619,Own - None,32.28
+ID2620,Own - None,136.96
+ID2621,Rent - Not Specified,264.88
+ID2622,Own - None,278.52
+ID2623,Own - None,76.44
+ID2624,Own - None,47.2
+ID2625,Own - None,95.68
+ID2626,Rent - Not Specified,55.08
+ID2627,Own - None,64.68
+ID2628,Own - None,229.36
+ID2629,Own - None,138.32
+ID2630,Own - None,157.36
+ID2631,Own - None,110.92
+ID2632,Own - None,264.04
+ID2633,Rent - Not Specified,96.28
+ID2634,Own - None,275.04
+ID2635,Own - None,60.52
+ID2636,Own - None,166.92
+ID2637,Own - None,130.52
+ID2638,Own - None,62.2
+ID2639,Own - None,128.76
+ID2640,Own - None,77.6
+ID2641,Own - None,49.16
+ID2642,Own - None,63.4
+ID2643,Own - None,77.52
+ID2644,Own - None,93.76
+ID2645,Own - None,92.32
+ID2646,Own - None,31.4
+ID2647,Rent - Not Specified,74.32
+ID2648,Own - None,2.96
+ID2649,Own - None,155.48
+ID2650,Own - None,177.92
+ID2651,Own - None,68.0
+ID2652,Own - None,8.36
+ID2653,Own - None,107.24
+ID2654,Own - None,119.6
+ID2655,Own - None,55.44
+ID2656,Own - None,81.72
+ID2657,Own - None,10.64
+ID2658,Own - None,28.48
+ID2659,Own - None,57.52
+ID2660,Own - None,938.24
+ID2661,Rent - Not Specified,52.52
+ID2662,Own - None,84.28
+ID2663,Own - None,131.36
+ID2664,Own - None,9.8
+ID2665,Own - None,71.28
+ID2666,Own - None,93.48
+ID2667,Own - None,42.16
+ID2668,Own - None,77.4
+ID2669,Own - None,82.72
+ID2670,Own - None,122.68
+ID2671,Own - None,74.16
+ID2672,Own - None,141.68
+ID2673,Own - None,56.88
+ID2674,Own - None,45.4
+ID2675,Own - None,76.12
+ID2676,Own - None,57.08
+ID2677,Own - None,105.96
+ID2678,Own - None,112.04
+ID2679,Own - None,62.36
+ID2680,Own - None,82.76
+ID2681,Own - None,271.04
+ID2682,Own - None,128.48
+ID2683,Own - None,109.52
+ID2684,Own - None,59.72
+ID2685,Own - None,45.6
+ID2686,Own - None,93.64
+ID2687,Rent - Not Specified,59.44
+ID2688,Own - None,20.28
+ID2689,Own - None,90.24
+ID2690,Own - None,107.68
+ID2691,Own - None,106.52
+ID2692,Own - None,63.8
+ID2693,Own - None,13.36
+ID2694,Own - None,1.56
+ID2695,Rent - Not Specified,67.28
+ID2696,Own - None,130.52
+ID2697,Own - None,37.32
+ID2698,Own - None,103.76
+ID2699,Own - None,163.24
+ID2700,Own - None,43.16
+ID2701,Own - None,180.0
+ID2702,Own - Renters,108.48
+ID2703,Own - None,133.6
+ID2704,Own - None,95.8
+ID2705,Own - None,49.28
+ID2706,Own - None,23.72
+ID2707,Own - None,89.52
+ID2708,Own - None,151.48
+ID2709,Own - None,145.72
+ID2710,Own - None,150.8
+ID2711,Own - None,79.28
+ID2712,Own - Renters,127.4
+ID2713,Own - None,106.64
+ID2714,Own - None,131.68
+ID2715,Own - None,105.76
+ID2716,Rent - Not Specified,134.4
+ID2717,Own - None,282.12
+ID2718,Own - None,151.44
+ID2719,Own - None,75.6
+ID2720,Own - None,26.44
+ID2721,Own - None,6.44
+ID2722,Own - None,78.88
+ID2723,Own - None,111.68
+ID2724,Own - None,87.56
+ID2725,Own - None,269.96
+ID2726,Own - None,407.24
+ID2727,Own - None,139.28
+ID2728,Own - None,75.48
+ID2729,Own - None,93.4
+ID2730,Own - None,77.24
+ID2731,Own - None,53.2
+ID2732,Own - None,93.96
+ID2733,Rent Free - Not Specified,138.04
+ID2734,Own - None,87.36
+ID2735,Own - None,348.04
+ID2736,Own - None,85.52
+ID2737,Rent - Not Specified,84.4
+ID2738,Own - None,129.56
+ID2739,Own - None,140.24
+ID2740,Own - None,85.6
+ID2741,Own - None,55.56
+ID2742,Own - None,94.32
+ID2743,Rent - Not Specified,55.24
+ID2744,Own - None,114.36
+ID2745,Own - None,34.44
+ID2746,Own - None,158.04
+ID2747,Own - None,36.08
+ID2748,Own - None,140.08
+ID2749,Own - None,66.44
+ID2750,Own - None,55.28
+ID2751,Own - None,91.68
+ID2752,Own - None,87.4
+ID2753,Own - None,81.0
+ID2754,Rent - Not Specified,188.52
+ID2755,Own - None,86.52
+ID2756,Rent - Not Specified,58.52
+ID2757,Rent - Not Specified,59.68
+ID2758,Own - None,114.6
+ID2759,Own - None,574.1176470588235
+ID2760,Own - None,66.0
+ID2761,Own - None,111.6
+ID2762,Own - None,117.6
+ID2763,Own - None,124.76
+ID2764,Own - None,165.28
+ID2765,Own - None,117.68
+ID2766,Own - None,154.47826086956522
+ID2767,Own - None,98.56
+ID2768,Own - None,107.2
+ID2769,Own - None,62.92
+ID2770,Own - None,1026.88
+ID2771,Own - None,166.32
+ID2772,Own - None,67.48
+ID2773,Own - None,45.36
+ID2774,Own - None,418.08
+ID2775,Own - None,66.92
+ID2776,Own - None,63.36
+ID2777,Own - None,38.92
+ID2778,Own - None,551.12
+ID2779,Own - None,77.48
+ID2780,Own - None,267.88
+ID2781,Own - None,245.4
+ID2782,Own - None,41.2
+ID2783,Own - None,15.48
+ID2784,Rent - Not Specified,103.96
+ID2785,Own - None,90.8
+ID2786,Own - None,80.24
+ID2787,Own - None,74.36
+ID2788,Rent - Not Specified,198.64
+ID2789,Own - None,165.8
+ID2790,Own - None,146.64
+ID2791,Own - None,81.0
+ID2792,Rent - Not Specified,49.2
+ID2793,Own - None,104.88
+ID2794,Own - None,29.4
+ID2795,Own - None,116.24
+ID2796,Own - None,90.72
+ID2797,Own - None,69.52
+ID2798,Own - None,140.84
+ID2799,Rent - Not Specified,136.52
+ID2800,Own - None,108.28
+ID2801,Own - None,81.16
+ID2802,Own - None,221.04
+ID2803,Own - None,84.56
+ID2804,Rent - Not Specified,57.0
+ID2805,Own - None,73.8
+ID2806,Own - None,113.64
+ID2807,Own - None,97.4
+ID2808,Own - None,10.96
+ID2809,Own - None,188.48
+ID2810,Own - None,272.4
+ID2811,Own - None,139.72
+ID2812,Rent - Not Specified,86.84
+ID2813,Own - None,138.52
+ID2814,Own - None,199.12
+ID2815,Own - None,187.64
+ID2816,Own - None,296.0
+ID2817,Own - Renters,198.76
+ID2818,Own - None,40.6
+ID2819,Own - None,91.0
+ID2820,Own - None,33.64
+ID2821,Rent - Not Specified,92.08
+ID2822,Own - None,75.8
+ID2823,Rent - Not Specified,45.92
+ID2824,Own - None,123.88
+ID2825,Own - None,49.12
+ID2826,Own - None,139.76
+ID2827,Own - None,154.24
+ID2828,Rent - Not Specified,46.04
+ID2829,Own - None,41.4
+ID2830,Own - None,194.92
+ID2831,Own - None,79.96
+ID2832,Rent - Not Specified,117.96
+ID2833,Own - None,22.16
+ID2834,Own - None,135.92
+ID2835,Own - None,109.08
+ID2836,Own - None,110.04
+ID2837,Rent Free - Not Specified,166.56
+ID2838,Own - None,127.0
+ID2839,Own - Renters,135.76
+ID2840,Own - None,113.76
+ID2841,Own - None,79.0
+ID2842,Own - None,99.64
+ID2843,Own - None,81.68
+ID2844,Own - None,83.96
+ID2845,Own - None,117.48
+ID2846,Own - None,93.28
+ID2847,Own - None,112.8
+ID2848,Own - None,110.6
+ID2849,Own - None,83.64
+ID2850,Rent - Not Specified,113.08
+ID2851,Own - None,53.76
+ID2852,Own - None,77.56
+ID2853,Own - None,63.04
+ID2854,Own - None,217.44
+ID2855,Own - None,169.6
+ID2856,Own - None,137.41666666666666
+ID2857,Own - None,41.64
+ID2858,Own - Renters,100.2
+ID2859,Own - None,127.96
+ID2860,Own - None,188.8
+ID2861,Own - None,67.68
+ID2862,Own - None,120.88
+ID2863,Own - None,0.12
+ID2864,Own - None,61.16
+ID2865,Own - None,62.88
+ID2866,Own - None,28.92
+ID2867,Own - None,30.84
+ID2868,Own - None,126.8
+ID2869,Own - None,418.08
+ID2870,Own - None,79.96
+ID2871,Own - None,20.08
+ID2872,Own - None,66.32
+ID2873,Rent - Not Specified,87.48
+ID2874,Own - None,84.2
+ID2875,Own - None,44.88
+ID2876,Own - Renters,155.2
+ID2877,Own - None,98.72
+ID2878,Own - None,44.8
+ID2879,Own - None,96.44
+ID2880,Own - None,74.2
+ID2881,Own - None,107.24
+ID2882,Own - None,87.56
+ID2883,Own - None,78.2
+ID2884,Own - None,16.2
+ID2885,Own - None,42.64
+ID2886,Own - None,65.36
+ID2887,Own - None,89.28
+ID2888,Own - None,92.16
+ID2889,Own - None,34.84
+ID2890,Rent - Not Specified,293.48
+ID2891,Rent - Not Specified,112.36
+ID2892,Own - None,61.12
+ID2893,Own - Renters,19.36
+ID2894,Rent - Not Specified,71.12
+ID2895,Own - None,53.0
+ID2896,Own - None,147.52
+ID2897,Own - None,18.96
+ID2898,Own - None,274.0416666666667
+ID2899,Own - None,15.36
+ID2900,Own - None,131.32
+ID2901,Own - None,113.32
+ID2902,Own - None,217.48
+ID2903,Own - None,222.32
+ID2904,Own - None,50.44
+ID2905,Own - Renters,65.84
+ID2906,Rent - Not Specified,103.64
+ID2907,Rent - Not Specified,125.95833333333333
+ID2908,Own - None,8.2
+ID2909,Rent - Not Specified,46.12
+ID2910,Own - None,111.6
+ID2911,Own - None,216.04
+ID2912,Rent - Not Specified,135.32
+ID2913,Own - None,111.0
+ID2914,Own - None,79.96
+ID2915,Own - None,114.08
+ID2916,Own - None,143.12
+ID2917,Rent - Not Specified,126.24
+ID2918,Own - None,111.84
+ID2919,Own - None,326.24
+ID2920,Own - None,75.08
+ID2921,Rent (Paid by Employer) - Not Specified,85.16
+ID2922,Own - None,197.84
+ID2923,Own - None,492.64
+ID2924,Own - None,85.48
+ID2925,Own - None,17.4
+ID2926,Own - None,68.68
+ID2927,Rent - Not Specified,127.04
+ID2928,Own - None,141.16
+ID2929,Own - None,140.56
+ID2930,Rent - Not Specified,129.0
+ID2931,Own - None,128.72
+ID2932,Own - None,39.76
+ID2933,Own - None,45.08
+ID2934,Own - None,48.16
+ID2935,Own - None,15.76
+ID2936,Own - None,171.16
+ID2937,Own - None,135.76
+ID2938,Own - None,52.48
+ID2939,Own - None,108.16
+ID2940,Own - None,46.4
+ID2941,Rent - Not Specified,51.16
+ID2942,Own - None,216.92
+ID2943,Own - None,60.32
+ID2944,Own - None,87.44
+ID2945,Own - None,40.52
+ID2946,Own - None,64.88
+ID2947,Own - None,4.56
+ID2948,Own - None,118.16
+ID2949,Own - None,153.2
+ID2950,Own - None,107.36
+ID2951,Own - None,102.64
+ID2952,Own - None,151.6
+ID2953,Own - None,120.88888888888889
+ID2954,Own - None,117.16
+ID2955,Own - None,124.8
+ID2956,Rent - Not Specified,18.52
+ID2957,Own - None,119.76
+ID2958,Own - None,107.68
+ID2959,Own - None,83.84
+ID2960,Own - None,108.0
+ID2961,Own - None,98.48
+ID2962,Own - None,148.24
+ID2963,Own - None,132.88
+ID2964,Own - None,36.24
+ID2965,Own - None,4.64
+ID2966,Own - None,63.89473684210526
+ID2967,Own - None,289.64
+ID2968,Own - None,79.52
+ID2969,Own - None,91.8
+ID2970,Own - None,56.76470588235294
+ID2971,Own - None,48.16
+ID2972,Own - None,274.72
+ID2973,Own - None,76.52
+ID2974,Own - None,218.32
+ID2975,Rent - Not Specified,89.28
+ID2976,Own - None,174.16
+ID2977,Own - None,148.04
+ID2978,Own - None,50.6
+ID2979,Own - None,54.04
+ID2980,Own - None,0.56
+ID2981,Own - None,36.78260869565217
+ID2982,Rent - Not Specified,34.64
+ID2983,Own - None,90.2
+ID2984,Own - None,66.0
+ID2985,Own - None,537.88
+ID2986,Own - None,61.04
+ID2987,Rent - Not Specified,166.84
+ID2988,Rent - Not Specified,87.88
+ID2989,Rent - Not Specified,46.32
+ID2990,Own - None,108.88
+ID2991,Own - None,42.52
+ID2992,Own - None,129.12
+ID2993,Rent - Not Specified,33.48
+ID2994,Own - None,167.20833333333334
+ID2995,Own - Boarders,136.6
+ID2996,Own - None,132.12
+ID2997,Rent - Not Specified,116.12
+ID2998,Own - None,217.6
+ID2999,Own - None,238.64
+ID3000,Rent - Not Specified,87.28
+ID3001,Own - None,54.48
+ID3002,Rent - Not Specified,18.08
+ID3003,Own - None,63.56
+ID3004,Own - None,53.88
+ID3005,Own - None,47.92
+ID3006,Own - None,195.32
+ID3007,Rent - Not Specified,202.16
+ID3008,Own - None,105.44
+ID3009,Rent - Not Specified,225.92
+ID3010,Own - None,60.64
+ID3011,Own - None,107.16
+ID3012,Rent - Not Specified,97.68
+ID3013,Own - None,174.32
+ID3014,Own - None,179.0
+ID3015,Own - None,168.56
+ID3016,Own - None,226.32
+ID3017,Own - None,71.24
+ID3018,Own - None,202.56
+ID3019,Own - None,124.52
+ID3020,Own - None,48.56
+ID3021,Own - None,66.36
+ID3022,Own - None,122.72
+ID3023,Own - None,128.56
+ID3024,Own - None,194.36
+ID3025,Own - None,66.76923076923077
+ID3026,Own - None,141.56
+ID3027,Own - None,91.76
+ID3028,Own - None,32.88
+ID3029,Rent - Not Specified,25.6
+ID3030,Own - None,49.28
+ID3031,Own - None,379.3333333333333
+ID3032,Own - None,172.68
+ID3033,Rent - Not Specified,70.5
+ID3034,Own - None,234.96
+ID3035,Own - None,98.6
+ID3036,Own - None,77.48
+ID3037,Own - None,166.68
+ID3038,Own - None,99.84
+ID3039,Own - None,156.92
+ID3040,Own - None,155.92
+ID3041,Own - None,198.2
+ID3042,Rent - Not Specified,31.68
+ID3043,Own - None,181.8
+ID3044,Own - None,117.04
+ID3045,Rent - Not Specified,91.52
+ID3046,Own - None,152.48
+ID3047,Own - None,66.04
+ID3048,Own - None,92.36
+ID3049,Own - None,59.76
+ID3050,Own - Boarders,168.8
+ID3051,Own - None,94.76
+ID3052,Own - None,50.08
+ID3053,Own - None,45.52
+ID3054,Own - None,84.96
+ID3055,Own - None,16.96
+ID3056,Own - None,82.16
+ID3057,Own - None,60.36
+ID3058,Own - None,142.12
+ID3059,Own - None,306.0
+ID3060,Own - None,74.16
+ID3061,Own - None,158.56
+ID3062,Own - None,146.88
+ID3063,Own - None,297.52
+ID3064,Own - Renters,126.88
+ID3065,Own - None,45.4
+ID3066,Own - None,148.68
+ID3067,Own - None,73.0
+ID3068,Own - None,291.32
+ID3069,Own - None,361.88
+ID3070,Rent - Not Specified,249.6
+ID3071,Own - None,213.8
+ID3072,Own - None,155.32
+ID3073,Own - None,91.44
+ID3074,Own - None,175.0
+ID3075,Own - None,218.84
+ID3076,Own - None,110.96
+ID3077,Own - None,100.96
+ID3078,Own - None,80.76
+ID3079,Own - None,175.04
+ID3080,Own - None,135.12
+ID3081,Rent - Not Specified,77.88
+ID3082,Rent - Not Specified,99.44
+ID3083,Own - None,38.44
+ID3084,Own - None,106.68
+ID3085,Own - None,162.68
+ID3086,Own - None,185.0
+ID3087,Own - None,50.56
+ID3088,Rent - Not Specified,49.76
+ID3089,Own - None,122.48
+ID3090,Own - Renters,153.64
+ID3091,Own - Renters,56.36
+ID3092,Own - None,110.24
+ID3093,Own - None,37.84
+ID3094,Own - None,204.44
+ID3095,Own - None,129.84
+ID3096,Own - None,71.24
+ID3097,Rent - Not Specified,83.76
+ID3098,Own - None,282.88
+ID3099,Own - None,19.72
+ID3100,Own - None,122.92
+ID3101,Rent - Not Specified,103.64
+ID3102,Own - None,69.36
+ID3103,Own - None,62.76
+ID3104,Own - None,139.36
+ID3105,Rent - Not Specified,77.16
+ID3106,Rent - Not Specified,60.28
+ID3107,Own - None,101.48
+ID3108,Rent - Not Specified,114.48
+ID3109,Own - None,159.88
+ID3110,Own - None,103.08
+ID3111,Rent - Not Specified,130.84
+ID3112,Own - None,61.84
+ID3113,Own - None,264.125
+ID3114,Own - None,44.48
+ID3115,Own - None,99.68
+ID3116,Own - Renters,46.28
+ID3117,Own - None,182.96
+ID3118,Own - None,146.88
+ID3119,Own - None,45.28
+ID3120,Own - None,112.52
+ID3121,Own - None,228.44
+ID3122,Own - None,9.2
+ID3123,Rent - Not Specified,87.12
+ID3124,Own - None,99.64
+ID3125,Own - None,41.76
+ID3126,Own - None,44.76
+ID3127,Own - None,101.84
+ID3128,Own - None,44.12
+ID3129,Own - None,67.0
+ID3130,Own - None,93.28
+ID3131,Own - None,65.36
+ID3132,Own - None,69.72
+ID3133,Own - None,144.52
+ID3134,Own - None,89.96
+ID3135,Own - None,69.52
+ID3136,Own - None,35.64
+ID3137,Own - None,79.48
+ID3138,Own - None,57.52
+ID3139,Own - None,90.84
+ID3140,Own - None,35.56
+ID3141,Own - None,67.84
+ID3142,Rent - Not Specified,14.28
+ID3143,Rent - Not Specified,41.36
+ID3144,Rent - Not Specified,23.16
+ID3145,Rent - Not Specified,16.84
+ID3146,Own - None,36.16
+ID3147,Own - None,152.16
+ID3148,Own - None,390.16
+ID3149,Own - None,180.68
+ID3150,Own - None,73.84
+ID3151,Rent - Not Specified,117.2
+ID3152,Own - None,141.92
+ID3153,Own - None,52.0
+ID3154,Own - None,105.56
+ID3155,Rent - Not Specified,173.84
+ID3156,Own - None,148.41176470588235
+ID3157,Own - None,139.12
+ID3158,Own - Renters,34.84
+ID3159,Own - None,35.16
+ID3160,Own - Renters,58.92
+ID3161,Own - None,19.0
+ID3162,Own - None,7.24
+ID3163,Own - None,209.0
+ID3164,Own - None,174.8181818181818
+ID3165,Own - None,58.44
+ID3166,Own - None,36.4
+ID3167,Own - None,138.96
+ID3168,Own - None,97.4
+ID3169,Own - None,132.52
+ID3170,Own - None,154.12
+ID3171,Own - None,35.28
+ID3172,Rent - Not Specified,55.2
+ID3173,Own - None,81.6
+ID3174,Own - None,40.72
+ID3175,Own - None,354.68
+ID3176,Own - None,24.96
+ID3177,Own - None,95.04
+ID3178,Own - None,2154.4
+ID3179,Own - None,222.52
+ID3180,Own - None,0.0
+ID3181,Own - None,92.4
+ID3182,Own - None,144.8
+ID3183,Own - None,112.56
+ID3184,Own - None,26.68
+ID3185,Own - None,85.0
+ID3186,Own - None,84.6
+ID3187,Own - None,148.92
+ID3188,Own - None,96.12
+ID3189,Own - None,108.32
+ID3190,Own - None,7.52
+ID3191,Rent Free - Not Specified,176.4
+ID3192,Own - None,815.0526315789474
+ID3193,Own - None,187.44
+ID3194,Own - None,56.0
+ID3195,Own - None,95.96
+ID3196,Own - None,111.04
+ID3197,Own - None,96.72
+ID3198,Own - None,71.56
+ID3199,Own - None,87.44
+ID3200,Own - None,12.84
+ID3201,Own - None,33.04
+ID3202,Own - None,120.56
+ID3203,Own - None,130.64
+ID3204,Own - None,88.56
+ID3205,Own - None,198.16
+ID3206,Rent - Not Specified,140.88
+ID3207,Own - None,128.52
+ID3208,Own - None,67.28
+ID3209,Own - None,26.16
+ID3210,Own - None,97.64
+ID3211,Own - None,59.28
+ID3212,Own - None,66.44
+ID3213,Own - None,130.56
+ID3214,Own - None,158.04
+ID3215,Own - None,111.75
+ID3216,Rent (Paid by Employer) - Not Specified,171.58333333333334
+ID3217,Own - None,146.52
+ID3218,Own - None,121.36
+ID3219,Rent - Not Specified,85.0
+ID3220,Own - None,125.28
+ID3221,Rent - Not Specified,79.48
+ID3222,Own - None,379.8
+ID3223,Own - None,133.8
+ID3224,Own - None,99.6
+ID3225,Own - None,120.12
+ID3226,Own - None,31.64
+ID3227,Rent - Not Specified,60.48
+ID3228,Own - None,135.84
+ID3229,Own - None,142.52
+ID3230,Own - None,85.56
+ID3231,Own - None,122.96
+ID3232,Own - None,186.48
+ID3233,Own - None,104.72
+ID3234,Own - None,30.84
+ID3235,Own - None,60.96
+ID3236,Own - Boarders,91.76
+ID3237,Own - None,263.96
+ID3238,Own - None,172.0
+ID3239,Rent - Not Specified,63.72
+ID3240,Own - None,206.2
+ID3241,Own - None,81.04
+ID3242,Own - None,220.04
+ID3243,Own - None,25.84
+ID3244,Own - None,92.24
+ID3245,Own - None,107.64
+ID3246,Rent - Not Specified,143.32
+ID3247,Own - None,167.44
+ID3248,Own - None,168.8
+ID3249,Own - None,130.12
+ID3250,Own - None,501.4
+ID3251,Own - None,106.88
+ID3252,Own - None,62.8
+ID3253,Own - None,221.88
+ID3254,Rent - Not Specified,72.96
+ID3255,Rent - Not Specified,120.72
+ID3256,Own - None,339.2
+ID3257,Own - None,65.16
+ID3258,Own - None,355.8
+ID3259,Own - None,154.24
+ID3260,Own - None,87.88
+ID3261,Own - None,121.76
+ID3262,Own - None,98.48
+ID3263,Own - None,247.56
+ID3264,Own - None,37.04
+ID3265,Own - None,62.92
+ID3266,Own - None,151.44
+ID3267,Own - None,598.52
+ID3268,Own - None,116.8
+ID3269,Own - None,80.04
+ID3270,Own - None,74.28
+ID3271,Own - None,127.56
+ID3272,Rent - Not Specified,112.44
+ID3273,Own - None,86.04
+ID3274,Own - None,43.48
+ID3275,Rent - Not Specified,0.0
+ID3276,Own - None,85.52
+ID3277,Own - Renters,95.36
+ID3278,Own - None,235.08
+ID3279,Own - None,429.68
+ID3280,Own - None,104.88
+ID3281,Own - None,106.56
+ID3282,Own - None,176.36
+ID3283,Own - None,129.12
+ID3284,Own - None,414.28
+ID3285,Own - None,36.48
+ID3286,Rent - Not Specified,66.12
+ID3287,Own - None,114.36
+ID3288,Own - None,103.08
+ID3289,Own - None,81.0
+ID3290,Rent - Not Specified,67.24
+ID3291,Own - None,80.84
+ID3292,Own - None,39.44
+ID3293,Own - None,281.08
+ID3294,Rent - Not Specified,81.84
+ID3295,Own - None,84.04
+ID3296,Own - None,114.44
+ID3297,Own - None,45.4
+ID3298,Own - None,135.68
+ID3299,Own - None,170.2
+ID3300,Own - None,20.92
+ID3301,Own - None,103.76
+ID3302,Own - None,76.08
+ID3303,Own - None,9.72
+ID3304,Own - None,6.28
+ID3305,Own - None,89.04
+ID3306,Rent - Not Specified,84.48
+ID3307,Own - None,355.32
+ID3308,Own - None,90.52
+ID3309,Own - None,111.16
+ID3310,Own - None,65.08
+ID3311,Own - None,195.28
+ID3312,Own - None,151.04
+ID3313,Own - None,60.36
+ID3314,Own - None,175.4
+ID3315,Own - None,150.0
+ID3316,Rent Free - Not Specified,61.36
+ID3317,Own - None,10.96
+ID3318,Own - None,0.0
+ID3319,Own - None,94.8
+ID3320,Own - None,105.56
+ID3321,Own - None,130.96
+ID3322,Rent - Not Specified,51.6
+ID3323,Own - None,41.28
+ID3324,Own - None,102.6
+ID3325,Own - None,78.36
+ID3326,Own - None,159.32
+ID3327,Own - None,75.56
+ID3328,Own - None,50.76
+ID3329,Own - None,72.96
+ID3330,Own - None,119.84
+ID3331,Own - None,83.84
+ID3332,Own - None,171.32
+ID3333,Own - None,59.68
+ID3334,Own - None,82.8
+ID3335,Own - None,8.04
+ID3336,Own - None,52.88
+ID3337,Own - None,31.8
+ID3338,Own - None,240.2
+ID3339,Own - None,164.4
+ID3340,Own - None,108.28
+ID3341,Own - None,510.68
+ID3342,Own - None,80.12
+ID3343,Own - None,102.36
+ID3344,Own - None,80.36
+ID3345,Rent - Not Specified,65.92
+ID3346,Own - None,156.76
+ID3347,Rent - Not Specified,134.44
+ID3348,Own - None,143.32
+ID3349,Rent - Not Specified,112.24
+ID3350,Own - None,126.32
+ID3351,Rent Free - Not Specified,198.08
+ID3352,Own - None,106.52
+ID3353,Own - None,102.24
+ID3354,Own - None,20.28
+ID3355,Own - Boarders,78.4
+ID3356,Rent Free - Not Specified,173.56
+ID3357,Rent - Not Specified,47.28
+ID3358,Own - Renters,75.88
+ID3359,Rent - Not Specified,75.88
+ID3360,Own - None,88.92
+ID3361,Own - None,150.52
+ID3362,Own - None,62.4
+ID3363,Own - None,104.96
+ID3364,Own - None,209.84
+ID3365,Own - None,84.76
+ID3366,Own - None,294.96
+ID3367,Own - None,76.6
+ID3368,Own - None,140.24
+ID3369,Own - None,111.52
+ID3370,Own - None,39.0
+ID3371,Own - None,151.32
+ID3372,Own - None,71.52
+ID3373,Rent - Not Specified,115.68
+ID3374,Own - None,16.76
+ID3375,Own - None,127.12
+ID3376,Own - None,230.96
+ID3377,Own - None,58.4
+ID3378,Rent - Not Specified,88.52
+ID3379,Own - None,99.04
+ID3380,Own - None,66.08
+ID3381,Own - None,74.36
+ID3382,Rent - Not Specified,77.2
+ID3383,Own - None,65.16
+ID3384,Own - None,56.56
+ID3385,Own - None,509.96
+ID3386,Own - None,70.4
+ID3387,Own - None,149.16
+ID3388,Own - None,202.52
+ID3389,Own - None,128.56
+ID3390,Rent - Not Specified,50.6
+ID3391,Own - None,107.72
+ID3392,Own - None,60.68
+ID3393,Own - None,101.58333333333333
+ID3394,Own - None,134.68
+ID3395,Own - None,410.04545454545456
+ID3396,Own - None,174.2
+ID3397,Own - None,141.84
+ID3398,Own - Renters,107.2
+ID3399,Own - None,462.48
+ID3400,Rent - Not Specified,91.68
+ID3401,Own - None,83.64
+ID3402,Own - None,44.68
+ID3403,Rent - Not Specified,40.76
+ID3404,Own - None,184.0
+ID3405,Own - None,159.8
+ID3406,Own - None,89.16
+ID3407,Own - None,23.52
+ID3408,Own - None,77.16
+ID3409,Own - None,32.36
+ID3410,Own - None,13.32
+ID3411,Own - None,487.64
+ID3412,Own - None,154.28
+ID3413,Own - None,109.84
+ID3414,Rent - Not Specified,135.56
+ID3415,Rent - Not Specified,82.76
+ID3416,Own - None,117.04
+ID3417,Own - None,58.04
+ID3418,Own - None,91.12
+ID3419,Own - None,76.76
+ID3420,Own - None,108.04
+ID3421,Own - None,95.44
+ID3422,Own - None,98.2
+ID3423,Own - None,79.48
+ID3424,Own - None,119.88
+ID3425,Own - None,120.6
+ID3426,Rent - Not Specified,14.4
+ID3427,Own - None,8.76
+ID3428,Own - None,55.08
+ID3429,Own - None,130.08
+ID3430,Own - None,244.16
+ID3431,Own - None,118.52
+ID3432,Own - None,189.36
+ID3433,Own - None,106.32
+ID3434,Own - Renters,53.08
+ID3435,Own - None,74.72
+ID3436,Own - None,56.72
+ID3437,Rent - Not Specified,78.8
+ID3438,Own - None,385.52
+ID3439,Own - None,246.68
+ID3440,Rent Free - Not Specified,91.52
+ID3441,Own - Renters,398.24
+ID3442,Own - None,90.88
+ID3443,Own - None,74.6
+ID3444,Own - None,343.88
+ID3445,Own - None,187.56
+ID3446,Own - None,14.72
+ID3447,Rent - Not Specified,75.28
+ID3448,Own - Renters,43.48
+ID3449,Own - None,51.4
+ID3450,Own - None,173.24
+ID3451,Own - None,178.28
+ID3452,Own - None,135.04
+ID3453,Own - None,68.26315789473684
+ID3454,Own - None,312.8636363636364
+ID3455,Own - None,2.76
+ID3456,Own - None,102.8
+ID3457,Own - None,221.68
+ID3458,Own - None,73.24
+ID3459,Own - None,133.6
+ID3460,Own - None,136.32
+ID3461,Own - None,20.4
+ID3462,Own - None,63.68
+ID3463,Own - None,192.12
+ID3464,Own - None,130.72
+ID3465,Own - Renters,183.88
+ID3466,Own - None,322.32
+ID3467,Own - None,115.92
+ID3468,Own - None,158.36
+ID3469,Own - None,162.66666666666666
+ID3470,Own - None,111.72
+ID3471,Own - None,404.52
+ID3472,Rent - Not Specified,93.56
+ID3473,Own - None,179.6
+ID3474,Own - None,89.96
+ID3475,Own - None,217.6
+ID3476,Own - None,241.72
+ID3477,Rent - Not Specified,171.28
+ID3478,Rent - Not Specified,28.84
+ID3479,Own - None,785.44
+ID3480,Own - None,429.6
+ID3481,Own - None,25.3125
+ID3482,Rent - Not Specified,145.76
+ID3483,Own - None,82.52
+ID3484,Own - None,107.04
+ID3485,Own - None,181.96
+ID3486,Own - None,131.76
+ID3487,Own - None,240.8
+ID3488,Own - None,234.4
+ID3489,Rent - Not Specified,155.04
+ID3490,Own - None,39.04
+ID3491,Own - None,242.68
+ID3492,Own - None,126.36
+ID3493,Own - None,100.96
+ID3494,Own - None,87.72
+ID3495,Own - None,173.68
+ID3496,Own - None,26.84
+ID3497,Own - None,62.52
+ID3498,Own - None,20.4
+ID3499,Own - None,96.72
+ID3500,Own - Renters,98.88
+ID3501,Own - None,110.68
+ID3502,Own - None,280.2
+ID3503,Own - None,97.64
+ID3504,Own - None,76.92
+ID3505,Own - None,79.64
+ID3506,Own - None,424.88
+ID3507,Own - None,199.88
+ID3508,Own - None,64.92
+ID3509,Own - None,158.52
+ID3510,Own - None,104.12
+ID3511,Own - None,32.76
+ID3512,Own - None,108.8
+ID3513,Own - None,129.76
+ID3514,Rent - Not Specified,68.0
+ID3515,Own - None,195.0
+ID3516,Own - None,3.8636363636363638
+ID3517,Own - None,84.88
+ID3518,Own - None,15.64
+ID3519,Own - None,145.92
+ID3520,Own - None,132.64
+ID3521,Own - None,134.08
+ID3522,Own - None,80.8
+ID3523,Own - None,25.8
+ID3524,Own - None,80.2
+ID3525,Own - None,93.24
+ID3526,Own - None,156.6
+ID3527,Rent - Not Specified,199.52
+ID3528,Own - None,103.88
+ID3529,Own - None,36.68
+ID3530,Own - None,114.04
+ID3531,Own - None,120.96
+ID3532,Own - None,138.64
+ID3533,Own - None,31.84
+ID3534,Rent - Not Specified,141.0
+ID3535,Own - None,99.88
+ID3536,Own - None,30.291666666666668
+ID3537,Own - None,107.2
+ID3538,Own - None,140.4
+ID3539,Own - None,42.541666666666664
+ID3540,Own - None,298.68
+ID3541,Own - None,108.2
+ID3542,Rent - Not Specified,95.84
+ID3543,Own - None,55.16
+ID3544,Own - None,250.64
+ID3545,Own - None,173.0
+ID3546,Own - None,55.64
+ID3547,Own - None,58.2
+ID3548,Own - None,116.92
+ID3549,Own - None,95.8
+ID3550,Own - None,109.52
+ID3551,Own - None,156.64
+ID3552,Own - None,175.16
+ID3553,Own - None,78.08
+ID3554,Own - None,96.24
+ID3555,Own - None,307.2857142857143
+ID3556,Own - None,72.2
+ID3557,Own - None,112.64
+ID3558,Rent Free - Not Specified,178.68
+ID3559,Own - None,119.44
+ID3560,Own - None,24.68
+ID3561,Own - None,109.64
+ID3562,Own - None,72.72
+ID3563,Own - None,130.32
+ID3564,Own - None,170.24
+ID3565,Own - None,137.84
+ID3566,Own - None,19.12
+ID3567,Own - None,35.52
+ID3568,Own - None,124.08
+ID3569,Rent - Not Specified,68.52
+ID3570,Own - None,90.76
+ID3571,Own - None,81.48
+ID3572,Own - None,94.84
+ID3573,Own - None,74.08
+ID3574,Own - None,396.88
+ID3575,Own - None,49.16
+ID3576,Own - None,78.36
+ID3577,Own - None,218.8
+ID3578,Own - None,72.84
+ID3579,Own - None,36.32
+ID3580,Own - None,133.36
+ID3581,Own - None,58.56
+ID3582,Own - None,47.36
+ID3583,Own - None,37.08
+ID3584,Own - None,135.72
+ID3585,Own - None,177.34782608695653
+ID3586,Own - None,55.52
+ID3587,Own - None,119.64
+ID3588,Own - None,95.78947368421052
+ID3589,Own - None,91.52
+ID3590,Rent - Not Specified,58.24
+ID3591,Rent - Not Specified,127.88
+ID3592,Rent - Not Specified,53.44
+ID3593,Rent - Not Specified,16.96
+ID3594,Own - None,109.92
+ID3595,Own - None,66.17391304347827
+ID3596,Own - None,379.72
+ID3597,Own - None,145.76
+ID3598,Own - None,125.28
+ID3599,Own - None,52.96
+ID3600,Rent - Not Specified,352.96
+ID3601,Own - None,294.8888888888889
+ID3602,Own - None,210.84
+ID3603,Own - None,79.48
+ID3604,Own - None,11.8
+ID3605,Own - None,71.12
+ID3606,Own - None,116.68
+ID3607,Own - None,280.32
+ID3608,Rent - Not Specified,220.92
+ID3609,Rent - Not Specified,18.36
+ID3610,Own - None,144.76
+ID3611,Own - None,112.76
+ID3612,Rent - Not Specified,84.56
+ID3613,Own - Boarders,170.0
+ID3614,Own - None,41.08
+ID3615,Own - None,114.6
+ID3616,Own - None,71.2
+ID3617,Own - None,173.8
+ID3618,Own - None,105.64
+ID3619,Own - None,99.2
+ID3620,Own - None,170.32
+ID3621,Own - None,55.24
+ID3622,Own - None,149.72
+ID3623,Own - None,228.48
+ID3624,Own - None,1494.04
+ID3625,Own - None,256.24
+ID3626,Own - None,48.12
+ID3627,Own - None,0.0
+ID3628,Own - None,69.44
+ID3629,Own - None,183.96
+ID3630,Own - None,96.9090909090909
+ID3631,Own - None,106.44
+ID3632,Own - None,405.375
+ID3633,Own - None,393.32
+ID3634,Own - None,88.88
+ID3635,Own - None,159.88
+ID3636,Own - None,74.76
+ID3637,Own - None,68.52
+ID3638,Own - None,76.24
+ID3639,Own - None,48.0
+ID3640,Own - None,186.92
+ID3641,Own - None,82.88
+ID3642,Own - Renters,27.0
+ID3643,Own - None,196.08
+ID3644,Rent - Not Specified,58.08
+ID3645,Own - None,472.08
+ID3646,Own - None,128.56
+ID3647,Own - None,400.2
+ID3648,Own - None,84.04
+ID3649,Own - None,68.08
+ID3650,Own - None,110.52
+ID3651,Own - None,143.48
+ID3652,Own - None,101.92
+ID3653,Own - None,23.0
+ID3654,Own - None,60.16
+ID3655,Own - None,230.0
+ID3656,Own - None,55.84
+ID3657,Own - None,74.76
+ID3658,Own - None,165.08
+ID3659,Own - None,61.68
+ID3660,Own - None,72.16
+ID3661,Rent - Not Specified,143.36
+ID3662,Own - None,754.16
+ID3663,Own - None,217.64
+ID3664,Own - None,105.04
+ID3665,Own - None,243.04
+ID3666,Own - None,66.36
+ID3667,Own - None,98.12
+ID3668,Own - None,458.6
+ID3669,Rent - Not Specified,106.56
+ID3670,Rent - Not Specified,138.24
+ID3671,Own - None,87.54166666666667
+ID3672,Rent - Not Specified,83.08
+ID3673,Own - None,80.125
+ID3674,Own - None,78.12
+ID3675,Own - None,41.4
+ID3676,Own - None,73.68
+ID3677,Own - Boarders,136.24
+ID3678,Own - None,158.0952380952381
+ID3679,Own - None,53.96
+ID3680,Own - None,76.76
+ID3681,Own - None,147.0
+ID3682,Own - None,128.96
+ID3683,Own - None,20.28
+ID3684,Own - None,132.32
+ID3685,Own - None,76.52
+ID3686,Own - None,185.52
+ID3687,Rent - Not Specified,33.8
+ID3688,Rent - Not Specified,58.6
+ID3689,Own - None,98.6
+ID3690,Own - None,158.64
+ID3691,Own - None,119.68
+ID3692,Own - None,260.24
+ID3693,Own - None,172.72
+ID3694,Own - None,51.6
+ID3695,Own - None,52.88
+ID3696,Own - None,202.08695652173913
+ID3697,Own - None,199.32
+ID3698,Own - None,93.16
+ID3699,Own - None,67.8
+ID3700,Own - None,56.92
+ID3701,Own - None,84.32
+ID3702,Own - None,57.12
+ID3703,Own - None,26.08
+ID3704,Own - None,85.52
+ID3705,Rent - Not Specified,91.16
+ID3706,Own - None,77.36
+ID3707,Own - None,34.0
+ID3708,Own - None,45.714285714285715
+ID3709,Own - None,28.56
+ID3710,Own - None,110.28
+ID3711,Rent - Not Specified,53.73913043478261
+ID3712,Own - None,119.4
+ID3713,Rent - Not Specified,129.36
+ID3714,Own - None,135.8
+ID3715,Own - None,94.56
+ID3716,Rent - Not Specified,53.48
+ID3717,Rent - Not Specified,64.8
+ID3718,Own - None,67.96
+ID3719,Own - None,42.28
+ID3720,Own - None,185.92
+ID3721,Own - None,98.08
+ID3722,Own - None,87.56
+ID3723,Own - None,372.16
+ID3724,Own - None,114.84
+ID3725,Own - None,176.44
+ID3726,Rent - Not Specified,146.64
+ID3727,Own - None,188.08
+ID3728,Own - None,308.88
+ID3729,Own - None,65.76
+ID3730,Own - None,342.88
+ID3731,Own - None,130.32
+ID3732,Own - Renters,30.4
+ID3733,Own - None,471.36
+ID3734,Own - None,31.68
+ID3735,Own - None,142.76
+ID3736,Own - None,379.16
+ID3737,Own - None,449.08
+ID3738,Own - None,105.92
+ID3739,Own - None,85.04
+ID3740,Own - None,83.56
+ID3741,Own - None,88.6
+ID3742,Own - None,103.24
+ID3743,Own - None,23.2
+ID3744,Own - None,83.92
+ID3745,Own - None,137.12
+ID3746,Own - None,101.24
+ID3747,Own - None,113.32
+ID3748,Own - None,113.68
+ID3749,Own - None,95.88
+ID3750,Rent - Not Specified,127.88
+ID3751,Rent - Not Specified,121.64
+ID3752,Own - None,87.12
+ID3753,Own - None,0.28
+ID3754,Own - None,193.32
+ID3755,Own - None,135.72
+ID3756,Own - None,221.12
+ID3757,Rent - Not Specified,40.4
+ID3758,Own - None,62.44
+ID3759,Own - None,28.48
+ID3760,Own - None,343.84
+ID3761,Rent - Not Specified,207.68
+ID3762,Rent - Not Specified,81.6
+ID3763,Own - None,210.28
+ID3764,Own - None,0.6
+ID3765,Own - None,163.75
+ID3766,Rent - Not Specified,160.16
+ID3767,Own - None,70.68181818181819
+ID3768,Own - None,56.52
+ID3769,Own - None,112.4
+ID3770,Own - None,232.76
+ID3771,Rent - Not Specified,44.68
+ID3772,Own - None,124.6
+ID3773,Own - None,12.96
+ID3774,Own - None,230.28
+ID3775,Own - None,122.4
+ID3776,Own - None,217.96
+ID3777,Own - None,351.88
+ID3778,Own - None,71.28
+ID3779,Own - None,214.36
+ID3780,Own - None,170.76
+ID3781,Own - None,142.04
+ID3782,Own - None,56.64
+ID3783,Own - None,225.92
+ID3784,Own - None,8.12
+ID3785,Own - None,116.4
+ID3786,Own - None,151.36
+ID3787,Own - None,187.36
+ID3788,Rent - Not Specified,33.68
+ID3789,Rent - Not Specified,92.64
+ID3790,Own - None,153.12
+ID3791,Own - None,134.08
+ID3792,Own - Boarders,297.0
+ID3793,Own - None,20.64
+ID3794,Own - None,208.8
+ID3795,Own - None,49.96
+ID3796,Own - None,119.88
+ID3797,Own - None,82.08
+ID3798,Own - None,104.8
+ID3799,Own - None,120.0
+ID3800,Own - None,94.16
+ID3801,Own - Boarders,78.96
+ID3802,Own - None,163.52
+ID3803,Own - None,74.04
+ID3804,Own - None,196.4
+ID3805,Own - None,40.4
+ID3806,Own - None,752.16
+ID3807,Own - None,73.64
+ID3808,Own - None,80.8
+ID3809,Own - None,98.48
+ID3810,Own - None,77.28
+ID3811,Own - None,89.56
+ID3812,Own - None,35.0
+ID3813,Own - None,67.64
+ID3814,Own - None,76.64
+ID3815,Own - None,145.28
+ID3816,Rent - Not Specified,111.76
+ID3817,Own - Renters,58.8
+ID3818,Own - None,103.72
+ID3819,Own - None,322.68
+ID3820,Own - None,132.24
+ID3821,Own - Renters,80.88
+ID3822,Own - None,181.52
+ID3823,Own - None,160.36
+ID3824,Own - None,11.6
+ID3825,Own - None,920.36
+ID3826,Own - None,173.88
+ID3827,Own - None,98.84
+ID3828,Own - None,91.72
+ID3829,Own - None,100.44
+ID3830,Own - None,51.44
+ID3831,Own - Boarders,99.04
+ID3832,Own - None,54.12
+ID3833,Own - None,56.56
+ID3834,Own - None,46.28
+ID3835,Own - None,25.12
+ID3836,Own - None,84.4
+ID3837,Rent Free - Not Specified,18.16
+ID3838,Own - None,105.24
+ID3839,Own - None,79.12
+ID3840,Own - None,66.2
+ID3841,Own - None,100.08
+ID3842,Own - None,150.56
+ID3843,Own - None,65.6
+ID3844,Own - None,106.08
+ID3845,Rent - Not Specified,102.84
+ID3846,Own - None,111.24
+ID3847,Own - None,165.16
+ID3848,Own - None,46.08
+ID3849,Own - None,116.2
+ID3850,Own - None,100.68
+ID3851,Own - None,6.88
+ID3852,Own - None,71.72
+ID3853,Own - None,89.56
+ID3854,Own - None,61.88
+ID3855,Own - None,49.56
+ID3856,Own - Renters,156.76
+ID3857,Own - None,8.72
+ID3858,Own - None,3.04
+ID3859,Own - None,55.04
+ID3860,Own - None,104.52
+ID3861,Own - None,35.04
+ID3862,Own - None,62.6
+ID3863,Own - None,213.28
+ID3864,Own - None,45.48
+ID3865,Own - None,74.24
+ID3866,Own - None,111.76
+ID3867,Own - None,147.76
+ID3868,Own - None,156.48
+ID3869,Own - None,95.36
+ID3870,Own - None,76.48
+ID3871,Own - None,55.72
+ID3872,Own - None,37.4
+ID3873,Own - None,47.96
+ID3874,Own - None,45.16
+ID3875,Own - None,109.08
+ID3876,Own - None,335.0
+ID3877,Own - None,63.96
+ID3878,Own - None,68.4
+ID3879,Own - None,118.32
+ID3880,Own - None,108.08
+ID3881,Rent - Not Specified,195.44
+ID3882,Own - None,39.0
+ID3883,Rent - Not Specified,86.0
+ID3884,Rent - Not Specified,18.24
+ID3885,Own - None,1704.3333333333333
+ID3886,Own - None,47.0
+ID3887,Own - Boarders,32.44
+ID3888,Own - None,101.44
+ID3889,Own - None,146.24
+ID3890,Own - None,74.92
+ID3891,Own - None,60.36
+ID3892,Own - None,76.2
+ID3893,Own - None,137.56
+ID3894,Own - None,46.28
+ID3895,Own - None,127.84
+ID3896,Own - Renters,77.6
+ID3897,Own - None,140.08333333333334
+ID3898,Own - None,116.48
+ID3899,Own - None,130.6
+ID3900,Rent - Not Specified,76.84
+ID3901,Own - None,71.12
+ID3902,Own - None,43.28
+ID3903,Own - None,175.52
+ID3904,Rent - Not Specified,52.16
+ID3905,Own - None,241.96
+ID3906,Own - None,154.96
+ID3907,Own - None,159.84
+ID3908,Rent - Not Specified,2.44
+ID3909,Own - None,116.64
+ID3910,Own - None,1.32
+ID3911,Own - None,114.96
+ID3912,Own - None,141.04
+ID3913,Own - None,191.16
+ID3914,Own - None,84.08
+ID3915,Own - None,78.28
+ID3916,Own - None,77.48
+ID3917,Rent - Not Specified,106.2
+ID3918,Own - None,100.36
+ID3919,Own - None,24.04
+ID3920,Rent - Not Specified,9.28
+ID3921,Own - None,173.58333333333334
+ID3922,Own - None,129.08
+ID3923,Own - None,75.92
+ID3924,Own - None,79.0
+ID3925,Own - None,112.84
+ID3926,Own - None,232.28
+ID3927,Own - None,220.16
+ID3928,Own - None,124.2
+ID3929,Own - None,190.28
+ID3930,Own - None,185.16
+ID3931,Own - None,22.84
+ID3932,Own - None,131.92
+ID3933,Own - None,95.6
+ID3934,Own - None,21.72
+ID3935,Own - None,90.36
+ID3936,Own - None,90.08
+ID3937,Own - None,104.52
+ID3938,Own - None,86.88
+ID3939,Rent - Not Specified,40.4
+ID3940,Own - None,69.84
+ID3941,Rent - Not Specified,66.24
+ID3942,Own - None,40.88
+ID3943,Own - None,85.24
+ID3944,Own - None,45.32
+ID3945,Own - None,24.6
+ID3946,Own - None,71.36
+ID3947,Own - None,158.04
+ID3948,Own - None,427.52
+ID3949,Own - None,83.16
+ID3950,Own - None,704.76
+ID3951,Own - None,118.72
+ID3952,Own - None,85.24
+ID3953,Own - None,97.42857142857143
+ID3954,Own - None,26.36
+ID3955,Own - None,93.28
+ID3956,Own - None,67.24
+ID3957,Own - None,116.88
+ID3958,Own - None,38.2
+ID3959,Own - None,33.2
+ID3960,Own - None,83.04
+ID3961,Own - None,59.2
+ID3962,Own - None,50.84
+ID3963,Own - None,63.52
+ID3964,Own - None,74.76
+ID3965,Own - None,106.68
+ID3966,Own - None,58.8
+ID3967,Own - None,14.48
+ID3968,Own - None,144.0
+ID3969,Own - None,95.12
+ID3970,Own - None,86.88
+ID3971,Own - None,93.28
+ID3972,Own - None,119.52
+ID3973,Rent - Not Specified,43.72
+ID3974,Own - None,43.52
+ID3975,Own - None,54.52
+ID3976,Own - None,94.52
+ID3977,Own - None,104.92
+ID3978,Rent - Not Specified,90.08
+ID3979,Own - None,125.92
+ID3980,Own - None,67.36
+ID3981,Rent - Not Specified,73.16
+ID3982,Own - None,65.0
+ID3983,Own - None,51.68
+ID3984,Own - None,149.2
+ID3985,Own - None,99.4
+ID3986,Own - None,99.44
+ID3987,Rent - Not Specified,121.32
+ID3988,Own - None,88.8
+ID3989,Own - None,143.6
+ID3990,Rent - Not Specified,73.4
+ID3991,Own - None,126.92
+ID3992,Rent - Not Specified,36.68
+ID3993,Own - None,86.79166666666667
+ID3994,Own - None,48.0
+ID3995,Own - None,69.4
+ID3996,Own - None,53.16
+ID3997,Own - None,70.6
+ID3998,Own - None,73.04
+ID3999,Own - None,27.04
+ID4000,Rent - Not Specified,95.48
+ID4001,Own - None,79.56
+ID4002,Own - None,76.92
+ID4003,Own - None,98.84
+ID4004,Own - None,48.0
+ID4005,Own - None,10.76
+ID4006,Own - None,37.64
+ID4007,Own - None,101.48
+ID4008,Own - None,67.88
+ID4009,Own - None,62.6
+ID4010,Own - None,31.96
+ID4011,Own - None,84.24
+ID4012,Rent - Not Specified,64.44
+ID4013,Own - None,104.4
+ID4014,Own - Renters,42.52
+ID4015,Own - None,96.04
+ID4016,Rent - Not Specified,72.8
+ID4017,Own - None,126.68
+ID4018,Own - None,49.96
+ID4019,Own - None,66.36
+ID4020,Own - None,75.2
+ID4021,Own - Renters,104.04
+ID4022,Own - None,46.28
+ID4023,Own - None,91.56
+ID4024,Own - None,49.28
+ID4025,Own - None,118.52
+ID4026,Rent - Not Specified,161.68
+ID4027,Own - None,65.68
+ID4028,Own - None,220.4
+ID4029,Own - None,174.68
+ID4030,Own - None,54.84
+ID4031,Own - None,54.04
+ID4032,Own - None,89.32
+ID4033,Rent - Not Specified,109.56
+ID4034,Own - None,39.6
+ID4035,Own - None,96.76
+ID4036,Own - None,9.8
+ID4037,Own - None,79.84
+ID4038,Own - None,85.68
+ID4039,Own - None,86.44
+ID4040,Own - None,103.96
+ID4041,Own - None,78.8
+ID4042,Own - None,82.28
+ID4043,Own - None,3.6
+ID4044,Own - None,25.64
+ID4045,Own - None,58.52
+ID4046,Own - None,65.68
+ID4047,Own - None,17.08
+ID4048,Own - None,167.84
+ID4049,Own - None,145.88
+ID4050,Own - None,70.8
+ID4051,Own - None,105.84
+ID4052,Own - None,87.72
+ID4053,Own - None,84.8
+ID4054,Rent - Not Specified,144.56
+ID4055,Own - None,113.36
+ID4056,Own - None,54.84
+ID4057,Own - None,62.76
+ID4058,Own - None,68.52
+ID4059,Own - None,116.88
+ID4060,Own - None,24.72
+ID4061,Own - None,7.6
+ID4062,Own - None,148.64
+ID4063,Own - None,160.2
